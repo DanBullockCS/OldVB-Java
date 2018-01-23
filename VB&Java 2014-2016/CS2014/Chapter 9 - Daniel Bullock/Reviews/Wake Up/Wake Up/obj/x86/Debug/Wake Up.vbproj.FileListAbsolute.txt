@@ -1,0 +1,18 @@
+F:\Chapter 9\Reviews\Wake Up\Wake Up\bin\Debug\Wake Up.exe
+F:\Chapter 9\Reviews\Wake Up\Wake Up\bin\Debug\Wake Up.pdb
+F:\Chapter 9\Reviews\Wake Up\Wake Up\bin\Debug\Wake Up.xml
+F:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake_Up.Form1.resources
+F:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake_Up.Resources.resources
+F:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake Up.vbproj.GenerateResource.Cache
+F:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake Up.exe
+F:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake Up.xml
+F:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake Up.pdb
+E:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake Up.exe
+E:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake Up.xml
+E:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake Up.pdb
+E:\Chapter 9\Reviews\Wake Up\Wake Up\bin\Debug\Wake Up.exe
+E:\Chapter 9\Reviews\Wake Up\Wake Up\bin\Debug\Wake Up.pdb
+E:\Chapter 9\Reviews\Wake Up\Wake Up\bin\Debug\Wake Up.xml
+E:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake_Up.Form1.resources
+E:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake_Up.Resources.resources
+E:\Chapter 9\Reviews\Wake Up\Wake Up\obj\x86\Debug\Wake Up.vbproj.GenerateResource.Cache

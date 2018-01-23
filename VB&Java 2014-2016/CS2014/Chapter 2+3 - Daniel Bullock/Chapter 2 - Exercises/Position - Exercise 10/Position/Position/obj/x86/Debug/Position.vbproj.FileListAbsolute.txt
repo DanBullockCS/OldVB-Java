@@ -1,0 +1,15 @@
+H:\Daniel Bullock\Exercises\Position - Exercise 10\Position\Position\bin\Debug\Position.exe
+H:\Daniel Bullock\Exercises\Position - Exercise 10\Position\Position\bin\Debug\Position.pdb
+H:\Daniel Bullock\Exercises\Position - Exercise 10\Position\Position\bin\Debug\Position.xml
+H:\Daniel Bullock\Exercises\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.Form1.resources
+H:\Daniel Bullock\Exercises\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.Resources.resources
+H:\Daniel Bullock\Exercises\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.vbproj.GenerateResource.Cache
+H:\Daniel Bullock\Exercises\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.exe
+H:\Daniel Bullock\Exercises\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.xml
+H:\Daniel Bullock\Exercises\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.pdb
+H:\Daniel Bullock\Exercises Chapter 2\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.exe
+H:\Daniel Bullock\Exercises Chapter 2\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.xml
+H:\Daniel Bullock\Exercises Chapter 2\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.pdb
+H:\2014\Chapter 2+3 - Daniel Bullock\Chapter 2 - Exercises\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.exe
+H:\2014\Chapter 2+3 - Daniel Bullock\Chapter 2 - Exercises\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.xml
+H:\2014\Chapter 2+3 - Daniel Bullock\Chapter 2 - Exercises\Position - Exercise 10\Position\Position\obj\x86\Debug\Position.pdb

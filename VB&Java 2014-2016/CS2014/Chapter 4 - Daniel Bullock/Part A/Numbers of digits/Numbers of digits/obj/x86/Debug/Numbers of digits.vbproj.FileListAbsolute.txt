@@ -1,0 +1,18 @@
+C:\Users\Dan STD\Desktop\Numbers of digits\Numbers of digits\bin\Debug\Numbers of digits.exe
+C:\Users\Dan STD\Desktop\Numbers of digits\Numbers of digits\bin\Debug\Numbers of digits.pdb
+C:\Users\Dan STD\Desktop\Numbers of digits\Numbers of digits\bin\Debug\Numbers of digits.xml
+C:\Users\Dan STD\Desktop\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers_of_digits.Form1.resources
+C:\Users\Dan STD\Desktop\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers_of_digits.Resources.resources
+C:\Users\Dan STD\Desktop\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers of digits.vbproj.GenerateResource.Cache
+C:\Users\Dan STD\Desktop\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers of digits.exe
+C:\Users\Dan STD\Desktop\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers of digits.xml
+C:\Users\Dan STD\Desktop\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers of digits.pdb
+E:\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers of digits.exe
+E:\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers of digits.xml
+E:\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers of digits.pdb
+E:\Numbers of digits\Numbers of digits\bin\Debug\Numbers of digits.exe
+E:\Numbers of digits\Numbers of digits\bin\Debug\Numbers of digits.pdb
+E:\Numbers of digits\Numbers of digits\bin\Debug\Numbers of digits.xml
+E:\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers_of_digits.Form1.resources
+E:\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers_of_digits.Resources.resources
+E:\Numbers of digits\Numbers of digits\obj\x86\Debug\Numbers of digits.vbproj.GenerateResource.Cache

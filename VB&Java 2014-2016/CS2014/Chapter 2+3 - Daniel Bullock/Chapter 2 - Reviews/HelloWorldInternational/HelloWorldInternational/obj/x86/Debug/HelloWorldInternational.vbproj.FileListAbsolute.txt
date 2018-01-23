@@ -1,0 +1,18 @@
+C:\Users\bullockd\AppData\Local\Temporary Projects\HelloWorldInternational\bin\Debug\HelloWorldInternational.exe
+C:\Users\bullockd\AppData\Local\Temporary Projects\HelloWorldInternational\bin\Debug\HelloWorldInternational.pdb
+C:\Users\bullockd\AppData\Local\Temporary Projects\HelloWorldInternational\bin\Debug\HelloWorldInternational.xml
+C:\Users\bullockd\AppData\Local\Temporary Projects\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.Form1.resources
+C:\Users\bullockd\AppData\Local\Temporary Projects\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.Resources.resources
+C:\Users\bullockd\AppData\Local\Temporary Projects\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.vbproj.GenerateResource.Cache
+C:\Users\bullockd\AppData\Local\Temporary Projects\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.exe
+C:\Users\bullockd\AppData\Local\Temporary Projects\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.xml
+C:\Users\bullockd\AppData\Local\Temporary Projects\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.pdb
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\HelloWorldInternational\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.exe
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\HelloWorldInternational\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.xml
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\HelloWorldInternational\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.pdb
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Projects\HelloWorldInternational\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.exe
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Projects\HelloWorldInternational\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.xml
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Projects\HelloWorldInternational\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.pdb
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\HelloWorldInternational\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\HelloWorldInternational\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\HelloWorldInternational\HelloWorldInternational\obj\x86\Debug\HelloWorldInternational.pdb

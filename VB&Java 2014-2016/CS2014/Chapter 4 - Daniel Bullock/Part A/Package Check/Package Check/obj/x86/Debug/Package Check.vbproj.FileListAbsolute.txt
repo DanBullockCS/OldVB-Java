@@ -1,0 +1,9 @@
+E:\Package Check\Package Check\bin\Debug\Package Check.exe
+E:\Package Check\Package Check\bin\Debug\Package Check.pdb
+E:\Package Check\Package Check\bin\Debug\Package Check.xml
+E:\Package Check\Package Check\obj\x86\Debug\Package_Check.Form1.resources
+E:\Package Check\Package Check\obj\x86\Debug\Package_Check.Resources.resources
+E:\Package Check\Package Check\obj\x86\Debug\Package Check.vbproj.GenerateResource.Cache
+E:\Package Check\Package Check\obj\x86\Debug\Package Check.exe
+E:\Package Check\Package Check\obj\x86\Debug\Package Check.xml
+E:\Package Check\Package Check\obj\x86\Debug\Package Check.pdb

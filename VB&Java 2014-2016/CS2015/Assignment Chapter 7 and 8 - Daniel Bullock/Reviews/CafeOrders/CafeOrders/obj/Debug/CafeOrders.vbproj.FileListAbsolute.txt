@@ -1,0 +1,22 @@
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW DATA FILES\CafeOrders\CafeOrders\obj\Debug\CafeOrders.exe
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW DATA FILES\CafeOrders\CafeOrders\obj\Debug\CafeOrders.xml
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW DATA FILES\CafeOrders\CafeOrders\obj\Debug\CafeOrders.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW DATA FILES\CafeOrders\CafeOrders\bin\Debug\CafeOrders.exe
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW DATA FILES\CafeOrders\CafeOrders\bin\Debug\CafeOrders.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW DATA FILES\CafeOrders\CafeOrders\bin\Debug\CafeOrders.xml
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW DATA FILES\CafeOrders\CafeOrders\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW DATA FILES\CafeOrders\CafeOrders\obj\Debug\CafeOrders.Form1.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW DATA FILES\CafeOrders\CafeOrders\obj\Debug\CafeOrders.Resources.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW DATA FILES\CafeOrders\CafeOrders\obj\Debug\CafeOrders.vbproj.GenerateResource.Cache
+C:\Users\Dan STD\Desktop\CafeOrders\CafeOrders\obj\Debug\CafeOrders.exe
+C:\Users\Dan STD\Desktop\CafeOrders\CafeOrders\obj\Debug\CafeOrders.xml
+C:\Users\Dan STD\Desktop\CafeOrders\CafeOrders\obj\Debug\CafeOrders.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\CafeOrders\CafeOrders\obj\Debug\CafeOrders.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\CafeOrders\CafeOrders\obj\Debug\CafeOrders.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\CafeOrders\CafeOrders\obj\Debug\CafeOrders.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\CafeOrders\CafeOrders\bin\Debug\CafeOrders.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\CafeOrders\CafeOrders\bin\Debug\CafeOrders.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\CafeOrders\CafeOrders\bin\Debug\CafeOrders.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\CafeOrders\CafeOrders\obj\Debug\CafeOrders.Form1.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\CafeOrders\CafeOrders\obj\Debug\CafeOrders.Resources.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\CafeOrders\CafeOrders\obj\Debug\CafeOrders.vbproj.GenerateResource.Cache

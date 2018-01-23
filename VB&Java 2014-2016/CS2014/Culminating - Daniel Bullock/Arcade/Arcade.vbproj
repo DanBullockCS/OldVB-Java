@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5BF1DA5B-3B6A-46BE-9D8C-597B858F24AB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Arcade.My.MyApplication</StartupObject>
+    <RootNamespace>Arcade</RootNamespace>
+    <AssemblyName>Arcade</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Arcade.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Arcade.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main Menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main Menu.Designer.vb">
+      <DependentUpon>Main Menu.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Math Game.Designer.vb">
+      <DependentUpon>Math Game.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Math Game.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPS.Designer.vb">
+      <DependentUpon>RPS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SlotMachine.Designer.vb">
+      <DependentUpon>SlotMachine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SlotMachine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SoundBoard.Designer.vb">
+      <DependentUpon>SoundBoard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SoundBoard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WhackAMole.Designer.vb">
+      <DependentUpon>WhackAMole.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WhackAMole.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Main Menu.resx">
+      <DependentUpon>Main Menu.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Math Game.resx">
+      <DependentUpon>Math Game.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPS.resx">
+      <DependentUpon>RPS.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SlotMachine.resx">
+      <DependentUpon>SlotMachine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SoundBoard.resx">
+      <DependentUpon>SoundBoard.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WhackAMole.resx">
+      <DependentUpon>WhackAMole.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arcade_Machine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Addition.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Division.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Multiplication.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subtraction.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Scissors.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red Paper.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red Rock.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Red Scissors.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\749a13_Ba_Dum_Tss_Sound_Effect.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Air Horn.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Iggy Azalea - Fancy.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inceptionbutton.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jaws.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Record Scratch.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\the-price-is-right-losing-horn.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Victory Fanfare.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Whip.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grape-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\slot-machine.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\strawberry-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\70ad342732172041.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background WAM.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Mole.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Arcade Music.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Smack.wav" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

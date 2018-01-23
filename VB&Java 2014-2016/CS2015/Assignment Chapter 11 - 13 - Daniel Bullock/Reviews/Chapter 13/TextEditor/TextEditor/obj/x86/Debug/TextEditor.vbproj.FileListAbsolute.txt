@@ -1,0 +1,12 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\bin\Debug\TextEditor.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\obj\x86\Debug\TextEditor.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\obj\x86\Debug\TextEditor.NewDocument.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\obj\x86\Debug\TextEditor.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\obj\x86\Debug\TextEditor.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\obj\x86\Debug\TextEditor.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\obj\x86\Debug\TextEditor.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\obj\x86\Debug\TextEditor.AlignmentDialogBox.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\TextEditor\TextEditor\obj\x86\Debug\TextEditor.AboutDialogBox.resources

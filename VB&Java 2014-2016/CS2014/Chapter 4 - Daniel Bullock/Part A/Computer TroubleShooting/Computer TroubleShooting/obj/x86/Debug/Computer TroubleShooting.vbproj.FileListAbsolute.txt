@@ -1,0 +1,9 @@
+E:\Computer TroubleShooting\Computer TroubleShooting\bin\Debug\Computer TroubleShooting.exe
+E:\Computer TroubleShooting\Computer TroubleShooting\bin\Debug\Computer TroubleShooting.pdb
+E:\Computer TroubleShooting\Computer TroubleShooting\bin\Debug\Computer TroubleShooting.xml
+E:\Computer TroubleShooting\Computer TroubleShooting\obj\x86\Debug\Computer_TroubleShooting.Form1.resources
+E:\Computer TroubleShooting\Computer TroubleShooting\obj\x86\Debug\Computer_TroubleShooting.Resources.resources
+E:\Computer TroubleShooting\Computer TroubleShooting\obj\x86\Debug\Computer TroubleShooting.vbproj.GenerateResource.Cache
+E:\Computer TroubleShooting\Computer TroubleShooting\obj\x86\Debug\Computer TroubleShooting.exe
+E:\Computer TroubleShooting\Computer TroubleShooting\obj\x86\Debug\Computer TroubleShooting.xml
+E:\Computer TroubleShooting\Computer TroubleShooting\obj\x86\Debug\Computer TroubleShooting.pdb

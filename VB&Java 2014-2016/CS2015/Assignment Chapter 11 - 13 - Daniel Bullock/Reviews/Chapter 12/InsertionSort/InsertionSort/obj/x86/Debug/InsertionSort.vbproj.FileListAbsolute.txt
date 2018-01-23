@@ -1,0 +1,8 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\InsertionSort\InsertionSort\bin\Debug\InsertionSort.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\InsertionSort\InsertionSort\bin\Debug\InsertionSort.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\InsertionSort\InsertionSort\obj\x86\Debug\InsertionSort.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\InsertionSort\InsertionSort\obj\x86\Debug\InsertionSort.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\InsertionSort\InsertionSort\obj\x86\Debug\InsertionSort.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\InsertionSort\InsertionSort\obj\x86\Debug\InsertionSort.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\InsertionSort\InsertionSort\obj\x86\Debug\InsertionSort.pdb

@@ -1,0 +1,18 @@
+H:\Daniel Bullock\Exercises Chapter 3\International - Exercise 10\International - Exercise 10\bin\Debug\International - Exercise 10.exe
+H:\Daniel Bullock\Exercises Chapter 3\International - Exercise 10\International - Exercise 10\bin\Debug\International - Exercise 10.pdb
+H:\Daniel Bullock\Exercises Chapter 3\International - Exercise 10\International - Exercise 10\bin\Debug\International - Exercise 10.xml
+H:\Daniel Bullock\Exercises Chapter 3\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International___Exercise_10.Form1.resources
+H:\Daniel Bullock\Exercises Chapter 3\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International___Exercise_10.Resources.resources
+H:\Daniel Bullock\Exercises Chapter 3\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International - Exercise 10.vbproj.GenerateResource.Cache
+H:\Daniel Bullock\Exercises Chapter 3\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International - Exercise 10.exe
+H:\Daniel Bullock\Exercises Chapter 3\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International - Exercise 10.xml
+H:\Daniel Bullock\Exercises Chapter 3\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International - Exercise 10.pdb
+F:\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International - Exercise 10.exe
+F:\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International - Exercise 10.xml
+F:\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International - Exercise 10.pdb
+F:\International - Exercise 10\International - Exercise 10\bin\Debug\International - Exercise 10.exe
+F:\International - Exercise 10\International - Exercise 10\bin\Debug\International - Exercise 10.pdb
+F:\International - Exercise 10\International - Exercise 10\bin\Debug\International - Exercise 10.xml
+F:\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International___Exercise_10.Form1.resources
+F:\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International___Exercise_10.Resources.resources
+F:\International - Exercise 10\International - Exercise 10\obj\x86\Debug\International - Exercise 10.vbproj.GenerateResource.Cache

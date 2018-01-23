@@ -1,0 +1,21 @@
+F:\Chapter 9\Exercises\TurtleRun\TurtleRun\bin\Debug\TurtleRun.exe
+F:\Chapter 9\Exercises\TurtleRun\TurtleRun\bin\Debug\TurtleRun.pdb
+F:\Chapter 9\Exercises\TurtleRun\TurtleRun\bin\Debug\TurtleRun.xml
+F:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.Form1.resources
+F:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.Resources.resources
+F:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.vbproj.GenerateResource.Cache
+F:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.exe
+F:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.xml
+F:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.pdb
+E:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.exe
+E:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.xml
+E:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.pdb
+E:\Chapter 9\Exercises\TurtleRun\TurtleRun\bin\Debug\TurtleRun.exe
+E:\Chapter 9\Exercises\TurtleRun\TurtleRun\bin\Debug\TurtleRun.pdb
+E:\Chapter 9\Exercises\TurtleRun\TurtleRun\bin\Debug\TurtleRun.xml
+E:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.Form1.resources
+E:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.Resources.resources
+E:\Chapter 9\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.vbproj.GenerateResource.Cache
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.exe
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.xml
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\TurtleRun\TurtleRun\obj\x86\Debug\TurtleRun.pdb

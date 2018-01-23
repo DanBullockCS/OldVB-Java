@@ -1,0 +1,9 @@
+F:\Chapter 5\Part B\Reviews\String Test\String Test\bin\Debug\String Test.exe
+F:\Chapter 5\Part B\Reviews\String Test\String Test\bin\Debug\String Test.pdb
+F:\Chapter 5\Part B\Reviews\String Test\String Test\bin\Debug\String Test.xml
+F:\Chapter 5\Part B\Reviews\String Test\String Test\obj\x86\Debug\String_Test.Form1.resources
+F:\Chapter 5\Part B\Reviews\String Test\String Test\obj\x86\Debug\String_Test.Resources.resources
+F:\Chapter 5\Part B\Reviews\String Test\String Test\obj\x86\Debug\String Test.vbproj.GenerateResource.Cache
+F:\Chapter 5\Part B\Reviews\String Test\String Test\obj\x86\Debug\String Test.exe
+F:\Chapter 5\Part B\Reviews\String Test\String Test\obj\x86\Debug\String Test.xml
+F:\Chapter 5\Part B\Reviews\String Test\String Test\obj\x86\Debug\String Test.pdb

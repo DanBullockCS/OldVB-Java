@@ -1,0 +1,9 @@
+H:\Daniel Bullock\Exercises Chapter 3\Long Jump Average - Exercise 6\Long Jump Average\bin\Debug\Long Jump Average.exe
+H:\Daniel Bullock\Exercises Chapter 3\Long Jump Average - Exercise 6\Long Jump Average\bin\Debug\Long Jump Average.pdb
+H:\Daniel Bullock\Exercises Chapter 3\Long Jump Average - Exercise 6\Long Jump Average\bin\Debug\Long Jump Average.xml
+H:\Daniel Bullock\Exercises Chapter 3\Long Jump Average - Exercise 6\Long Jump Average\obj\x86\Debug\Long_Jump_Average.Form1.resources
+H:\Daniel Bullock\Exercises Chapter 3\Long Jump Average - Exercise 6\Long Jump Average\obj\x86\Debug\Long_Jump_Average.Resources.resources
+H:\Daniel Bullock\Exercises Chapter 3\Long Jump Average - Exercise 6\Long Jump Average\obj\x86\Debug\Long Jump Average.vbproj.GenerateResource.Cache
+H:\Daniel Bullock\Exercises Chapter 3\Long Jump Average - Exercise 6\Long Jump Average\obj\x86\Debug\Long Jump Average.exe
+H:\Daniel Bullock\Exercises Chapter 3\Long Jump Average - Exercise 6\Long Jump Average\obj\x86\Debug\Long Jump Average.xml
+H:\Daniel Bullock\Exercises Chapter 3\Long Jump Average - Exercise 6\Long Jump Average\obj\x86\Debug\Long Jump Average.pdb

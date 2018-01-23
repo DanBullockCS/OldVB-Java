@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WordGuessII">
+</Property><Property Name="Solution File" Value="C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\WordGuessII\WordGuessII.sln">
+</Property><Property Name="Date" Value="Saturday, March 19, 2011">
+</Property><Property Name="Time" Value="20:55 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="WordGuessII" Source="WordGuessII\WordGuessII.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WordGuessII" Source="WordGuessII\WordGuessII.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WordGuessII.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WordGuessII.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WordGuessII" Source="WordGuessII\WordGuessII.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

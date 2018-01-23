@@ -1,0 +1,9 @@
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\Rectangle Area\RectangleArea\RectangleArea\obj\x86\Debug\RectangleArea.Form1.resources
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\Rectangle Area\RectangleArea\RectangleArea\obj\x86\Debug\RectangleArea.Resources.resources
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\Rectangle Area\RectangleArea\RectangleArea\obj\x86\Debug\RectangleArea.vbproj.GenerateResource.Cache
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\Rectangle Area\RectangleArea\RectangleArea\bin\Debug\RectangleArea.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\Rectangle Area\RectangleArea\RectangleArea\bin\Debug\RectangleArea.pdb
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\Rectangle Area\RectangleArea\RectangleArea\bin\Debug\RectangleArea.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\Rectangle Area\RectangleArea\RectangleArea\obj\x86\Debug\RectangleArea.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\Rectangle Area\RectangleArea\RectangleArea\obj\x86\Debug\RectangleArea.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\Rectangle Area\RectangleArea\RectangleArea\obj\x86\Debug\RectangleArea.pdb

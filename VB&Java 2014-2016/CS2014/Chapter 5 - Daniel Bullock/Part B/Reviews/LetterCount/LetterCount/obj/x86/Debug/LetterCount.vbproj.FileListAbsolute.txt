@@ -1,0 +1,42 @@
+C:\Users\desousak\AppData\Local\Temporary Projects\LetterCount\bin\Debug\LetterCount.exe
+C:\Users\desousak\AppData\Local\Temporary Projects\LetterCount\bin\Debug\LetterCount.pdb
+C:\Users\desousak\AppData\Local\Temporary Projects\LetterCount\bin\Debug\LetterCount.xml
+C:\Users\desousak\AppData\Local\Temporary Projects\LetterCount\obj\x86\Debug\LetterCount.Form1.resources
+C:\Users\desousak\AppData\Local\Temporary Projects\LetterCount\obj\x86\Debug\LetterCount.Resources.resources
+C:\Users\desousak\AppData\Local\Temporary Projects\LetterCount\obj\x86\Debug\LetterCount.vbproj.GenerateResource.Cache
+C:\Users\desousak\AppData\Local\Temporary Projects\LetterCount\obj\x86\Debug\LetterCount.exe
+C:\Users\desousak\AppData\Local\Temporary Projects\LetterCount\obj\x86\Debug\LetterCount.xml
+C:\Users\desousak\AppData\Local\Temporary Projects\LetterCount\obj\x86\Debug\LetterCount.pdb
+H:\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.exe
+H:\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.xml
+H:\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.pdb
+H:\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\bin\Debug\LetterCount.exe
+H:\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\bin\Debug\LetterCount.pdb
+H:\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\bin\Debug\LetterCount.xml
+H:\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.Form1.resources
+H:\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.Resources.resources
+H:\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.vbproj.GenerateResource.Cache
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.exe
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.xml
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.pdb
+E:\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.exe
+E:\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.xml
+E:\Part B\Review\LetterCount\LetterCount\obj\x86\Debug\LetterCount.pdb
+E:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.exe
+E:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.xml
+E:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.pdb
+E:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\bin\Debug\LetterCount.exe
+E:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\bin\Debug\LetterCount.pdb
+E:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\bin\Debug\LetterCount.xml
+E:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.Form1.resources
+E:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.Resources.resources
+E:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.vbproj.GenerateResource.Cache
+F:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.exe
+F:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.xml
+F:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.pdb
+F:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.Form1.resources
+F:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.Resources.resources
+F:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\obj\x86\Debug\LetterCount.vbproj.GenerateResource.Cache
+F:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\bin\Debug\LetterCount.exe
+F:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\bin\Debug\LetterCount.pdb
+F:\Chapter 5\Part B\Reviews\LetterCount\LetterCount\bin\Debug\LetterCount.xml

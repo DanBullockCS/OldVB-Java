@@ -1,0 +1,42 @@
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.xml
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\bin\Debug\Bingo.xml
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.AboutDialogBox.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.BingoCard.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.HelpDialogBox.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.Resources.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.vbproj.GenerateResource.Cache
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.xml
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.exe
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.xml
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\bin\Debug\Bingo.exe
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\bin\Debug\Bingo.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\bin\Debug\Bingo.xml
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.AboutDialogBox.resources
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.BingoCard.resources
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.HelpDialogBox.resources
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\Bingo.Resources.resources
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\Bingo\Bingo\obj\Debug\GenerateResource.write.1.tlog
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\obj\Debug\Bingo.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\obj\Debug\Bingo.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\obj\Debug\Bingo.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\bin\Debug\Bingo.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\bin\Debug\Bingo.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\bin\Debug\Bingo.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\obj\Debug\Bingo.AboutDialogBox.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\obj\Debug\Bingo.BingoCard.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\obj\Debug\Bingo.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\obj\Debug\Bingo.HelpDialogBox.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\obj\Debug\Bingo.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 13\Bingo\Bingo\obj\Debug\Bingo.vbproj.GenerateResource.Cache

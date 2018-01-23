@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Employees\Employees\obj\x86\Debug\Employees.Form1.resources
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Employees\Employees\obj\x86\Debug\Employees.Resources.resources
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Employees\Employees\obj\x86\Debug\Employees.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Employees\Employees\bin\Debug\Employees.exe
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Employees\Employees\bin\Debug\Employees.pdb
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Employees\Employees\bin\Debug\Employees.xml
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Employees\Employees\obj\x86\Debug\Employees.exe
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Employees\Employees\obj\x86\Debug\Employees.xml
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Employees\Employees\obj\x86\Debug\Employees.pdb

@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\MaxAndMinNumbers\MaxAndMinNumbers\bin\Debug\MaxAndMinNumbers.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\MaxAndMinNumbers\MaxAndMinNumbers\bin\Debug\MaxAndMinNumbers.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\MaxAndMinNumbers\MaxAndMinNumbers\bin\Debug\MaxAndMinNumbers.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\MaxAndMinNumbers\MaxAndMinNumbers\obj\x86\Debug\MaxAndMinNumbers.Form1.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\MaxAndMinNumbers\MaxAndMinNumbers\obj\x86\Debug\MaxAndMinNumbers.Resources.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\MaxAndMinNumbers\MaxAndMinNumbers\obj\x86\Debug\MaxAndMinNumbers.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\MaxAndMinNumbers\MaxAndMinNumbers\obj\x86\Debug\MaxAndMinNumbers.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\MaxAndMinNumbers\MaxAndMinNumbers\obj\x86\Debug\MaxAndMinNumbers.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\MaxAndMinNumbers\MaxAndMinNumbers\obj\x86\Debug\MaxAndMinNumbers.pdb

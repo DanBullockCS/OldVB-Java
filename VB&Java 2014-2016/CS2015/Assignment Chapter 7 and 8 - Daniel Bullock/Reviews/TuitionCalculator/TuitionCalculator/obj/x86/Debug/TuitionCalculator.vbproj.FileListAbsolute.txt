@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\TuitionCalculator\TuitionCalculator\bin\Debug\TuitionCalculator.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\TuitionCalculator\TuitionCalculator\obj\x86\Debug\TuitionCalculator.Form1.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\TuitionCalculator\TuitionCalculator\obj\x86\Debug\TuitionCalculator.Resources.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\TuitionCalculator\TuitionCalculator\obj\x86\Debug\TuitionCalculator.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\TuitionCalculator\TuitionCalculator\obj\x86\Debug\TuitionCalculator.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\TuitionCalculator\TuitionCalculator\obj\x86\Debug\TuitionCalculator.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\TuitionCalculator\TuitionCalculator\obj\x86\Debug\TuitionCalculator.pdb

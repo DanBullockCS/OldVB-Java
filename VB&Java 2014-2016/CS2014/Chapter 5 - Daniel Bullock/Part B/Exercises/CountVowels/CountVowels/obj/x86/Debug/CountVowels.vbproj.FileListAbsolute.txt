@@ -1,0 +1,39 @@
+C:\Users\desousak\AppData\Local\Temporary Projects\CountVowels\bin\Debug\CountVowels.exe
+C:\Users\desousak\AppData\Local\Temporary Projects\CountVowels\bin\Debug\CountVowels.pdb
+C:\Users\desousak\AppData\Local\Temporary Projects\CountVowels\bin\Debug\CountVowels.xml
+C:\Users\desousak\AppData\Local\Temporary Projects\CountVowels\obj\x86\Debug\CountVowels.Form1.resources
+C:\Users\desousak\AppData\Local\Temporary Projects\CountVowels\obj\x86\Debug\CountVowels.Resources.resources
+C:\Users\desousak\AppData\Local\Temporary Projects\CountVowels\obj\x86\Debug\CountVowels.vbproj.GenerateResource.Cache
+C:\Users\desousak\AppData\Local\Temporary Projects\CountVowels\obj\x86\Debug\CountVowels.exe
+C:\Users\desousak\AppData\Local\Temporary Projects\CountVowels\obj\x86\Debug\CountVowels.xml
+C:\Users\desousak\AppData\Local\Temporary Projects\CountVowels\obj\x86\Debug\CountVowels.pdb
+H:\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.exe
+H:\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.xml
+H:\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.pdb
+H:\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\bin\Debug\CountVowels.exe
+H:\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\bin\Debug\CountVowels.pdb
+H:\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\bin\Debug\CountVowels.xml
+H:\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.Form1.resources
+H:\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.Resources.resources
+H:\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.vbproj.GenerateResource.Cache
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.exe
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.xml
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.pdb
+E:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.exe
+E:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.xml
+E:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.pdb
+E:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\bin\Debug\CountVowels.exe
+E:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\bin\Debug\CountVowels.pdb
+E:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\bin\Debug\CountVowels.xml
+E:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.Form1.resources
+E:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.Resources.resources
+E:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.vbproj.GenerateResource.Cache
+F:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.exe
+F:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.xml
+F:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.pdb
+F:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\bin\Debug\CountVowels.exe
+F:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\bin\Debug\CountVowels.pdb
+F:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\bin\Debug\CountVowels.xml
+F:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.Form1.resources
+F:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.Resources.resources
+F:\Chapter 5\Part B\Exercises\CountVowels\CountVowels\obj\x86\Debug\CountVowels.vbproj.GenerateResource.Cache

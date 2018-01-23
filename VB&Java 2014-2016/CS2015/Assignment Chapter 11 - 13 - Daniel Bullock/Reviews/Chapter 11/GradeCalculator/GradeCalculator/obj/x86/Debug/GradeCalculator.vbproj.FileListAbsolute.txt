@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\GradeCalculator\GradeCalculator\obj\x86\Debug\GradeCalculator.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\GradeCalculator\GradeCalculator\obj\x86\Debug\GradeCalculator.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\GradeCalculator\GradeCalculator\obj\x86\Debug\GradeCalculator.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\GradeCalculator\GradeCalculator\obj\x86\Debug\GradeCalculator.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\GradeCalculator\GradeCalculator\obj\x86\Debug\GradeCalculator.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\GradeCalculator\GradeCalculator\obj\x86\Debug\GradeCalculator.pdb

@@ -1,0 +1,9 @@
+E:\Part C\Grades\Grades\obj\x86\Debug\Grades.Form1.resources
+E:\Part C\Grades\Grades\obj\x86\Debug\Grades.Resources.resources
+E:\Part C\Grades\Grades\obj\x86\Debug\Grades.vbproj.GenerateResource.Cache
+E:\Part C\Grades\Grades\bin\Debug\Grades.exe
+E:\Part C\Grades\Grades\bin\Debug\Grades.pdb
+E:\Part C\Grades\Grades\bin\Debug\Grades.xml
+E:\Part C\Grades\Grades\obj\x86\Debug\Grades.exe
+E:\Part C\Grades\Grades\obj\x86\Debug\Grades.xml
+E:\Part C\Grades\Grades\obj\x86\Debug\Grades.pdb

@@ -1,0 +1,12 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\MergeFiles\MergeFiles\bin\Debug\MergeFiles.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\MergeFiles\MergeFiles\bin\Debug\MergeFiles.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\MergeFiles\MergeFiles\bin\Debug\MergeFiles.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\MergeFiles\MergeFiles\obj\x86\Debug\MergeFiles.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\MergeFiles\MergeFiles\obj\x86\Debug\MergeFiles.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\MergeFiles\MergeFiles\obj\x86\Debug\MergeFiles.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\MergeFiles\MergeFiles\obj\x86\Debug\MergeFiles.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\MergeFiles\MergeFiles\obj\x86\Debug\MergeFiles.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\MergeFiles\MergeFiles\obj\x86\Debug\MergeFiles.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 11\MergeFiles\MergeFiles\obj\x86\Debug\MergeFiles.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 11\MergeFiles\MergeFiles\obj\x86\Debug\MergeFiles.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 11\MergeFiles\MergeFiles\obj\x86\Debug\MergeFiles.pdb

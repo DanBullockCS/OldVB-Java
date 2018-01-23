@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Local Bank\Local Bank\bin\Debug\Local Bank.exe
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Local Bank\Local Bank\bin\Debug\Local Bank.pdb
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Local Bank\Local Bank\bin\Debug\Local Bank.xml
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Local Bank\Local Bank\obj\x86\Debug\Local_Bank.Form1.resources
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Local Bank\Local Bank\obj\x86\Debug\Local_Bank.Resources.resources
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Local Bank\Local Bank\obj\x86\Debug\Local Bank.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Local Bank\Local Bank\obj\x86\Debug\Local Bank.exe
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Local Bank\Local Bank\obj\x86\Debug\Local Bank.xml
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Exercises\Local Bank\Local Bank\obj\x86\Debug\Local Bank.pdb

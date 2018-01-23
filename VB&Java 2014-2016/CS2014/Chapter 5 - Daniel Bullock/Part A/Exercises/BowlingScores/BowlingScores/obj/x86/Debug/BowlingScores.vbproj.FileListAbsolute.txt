@@ -1,0 +1,60 @@
+C:\Users\desousak\AppData\Local\Temporary Projects\BowlingScores\obj\x86\Debug\BowlingScores.Form1.resources
+C:\Users\desousak\AppData\Local\Temporary Projects\BowlingScores\obj\x86\Debug\BowlingScores.Resources.resources
+C:\Users\desousak\AppData\Local\Temporary Projects\BowlingScores\obj\x86\Debug\BowlingScores.vbproj.GenerateResource.Cache
+C:\Users\desousak\AppData\Local\Temporary Projects\BowlingScores\bin\Debug\BowlingScores.exe
+C:\Users\desousak\AppData\Local\Temporary Projects\BowlingScores\bin\Debug\BowlingScores.pdb
+C:\Users\desousak\AppData\Local\Temporary Projects\BowlingScores\bin\Debug\BowlingScores.xml
+C:\Users\desousak\AppData\Local\Temporary Projects\BowlingScores\obj\x86\Debug\BowlingScores.exe
+C:\Users\desousak\AppData\Local\Temporary Projects\BowlingScores\obj\x86\Debug\BowlingScores.xml
+C:\Users\desousak\AppData\Local\Temporary Projects\BowlingScores\obj\x86\Debug\BowlingScores.pdb
+H:\Kevin Desousa Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.exe
+H:\Kevin Desousa Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.xml
+H:\Kevin Desousa Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.pdb
+H:\Kevin Desousa Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.exe
+H:\Kevin Desousa Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.pdb
+H:\Kevin Desousa Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.xml
+H:\Kevin Desousa Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.Form1.resources
+H:\Kevin Desousa Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.Resources.resources
+H:\Kevin Desousa Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.vbproj.GenerateResource.Cache
+\\A-FS-02\Home$\cutlerd\Desktop\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.exe
+\\A-FS-02\Home$\cutlerd\Desktop\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.xml
+\\A-FS-02\Home$\cutlerd\Desktop\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.pdb
+\\A-FS-02\Home$\cutlerd\Desktop\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.exe
+\\A-FS-02\Home$\cutlerd\Desktop\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.pdb
+\\A-FS-02\Home$\cutlerd\Desktop\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.xml
+\\A-FS-02\Home$\cutlerd\Desktop\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.Form1.resources
+\\A-FS-02\Home$\cutlerd\Desktop\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.Resources.resources
+\\A-FS-02\Home$\cutlerd\Desktop\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.vbproj.GenerateResource.Cache
+E:\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.exe
+E:\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.xml
+E:\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.pdb
+E:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.exe
+E:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.xml
+E:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.pdb
+E:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.exe
+E:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.pdb
+E:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.xml
+E:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.Form1.resources
+E:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.Resources.resources
+E:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.vbproj.GenerateResource.Cache
+F:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.exe
+F:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.xml
+F:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.pdb
+F:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.exe
+F:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.pdb
+F:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.xml
+F:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.Form1.resources
+F:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.Resources.resources
+F:\Chapter 5\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.vbproj.GenerateResource.Cache
+H:\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.exe
+H:\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.xml
+H:\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.pdb
+H:\2014\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.exe
+H:\2014\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.xml
+H:\2014\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.pdb
+H:\2014\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.exe
+H:\2014\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.pdb
+H:\2014\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\bin\Debug\BowlingScores.xml
+H:\2014\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.Form1.resources
+H:\2014\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.Resources.resources
+H:\2014\Chapter 5 - Daniel Bullock\Part A\Exercises\BowlingScores\BowlingScores\obj\x86\Debug\BowlingScores.vbproj.GenerateResource.Cache

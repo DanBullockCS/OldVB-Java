@@ -1,0 +1,24 @@
+C:\Users\bullockd\AppData\Local\Temporary Projects\Calculations\bin\Debug\Calculations.exe
+C:\Users\bullockd\AppData\Local\Temporary Projects\Calculations\bin\Debug\Calculations.pdb
+C:\Users\bullockd\AppData\Local\Temporary Projects\Calculations\bin\Debug\Calculations.xml
+C:\Users\bullockd\AppData\Local\Temporary Projects\Calculations\obj\x86\Debug\Calculations.Calculations.resources
+C:\Users\bullockd\AppData\Local\Temporary Projects\Calculations\obj\x86\Debug\Calculations.Resources.resources
+C:\Users\bullockd\AppData\Local\Temporary Projects\Calculations\obj\x86\Debug\Calculations.vbproj.GenerateResource.Cache
+C:\Users\bullockd\AppData\Local\Temporary Projects\Calculations\obj\x86\Debug\Calculations.exe
+C:\Users\bullockd\AppData\Local\Temporary Projects\Calculations\obj\x86\Debug\Calculations.xml
+C:\Users\bullockd\AppData\Local\Temporary Projects\Calculations\obj\x86\Debug\Calculations.pdb
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Projects\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.exe
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Projects\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.xml
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Projects\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.pdb
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Projects\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Projects\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Projects\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.pdb
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.pdb
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2 - Reviews\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2 - Reviews\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2 - Reviews\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.pdb
+H:\Chapter 2+3 - Daniel Bullock\Chapter 2 - Reviews\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.exe
+H:\Chapter 2+3 - Daniel Bullock\Chapter 2 - Reviews\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.xml
+H:\Chapter 2+3 - Daniel Bullock\Chapter 2 - Reviews\Calculations\Calculations\Calculations\obj\x86\Debug\Calculations.pdb

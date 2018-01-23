@@ -1,0 +1,21 @@
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\bin\Debug\TestBuild.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\bin\Debug\TestBuild.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\bin\Debug\TestBuild.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.Form1.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.Resources.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.pdb
+H:\Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.exe
+H:\Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.xml
+H:\Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.pdb
+H:\Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\bin\Debug\TestBuild.exe
+H:\Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\bin\Debug\TestBuild.pdb
+H:\Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\bin\Debug\TestBuild.xml
+H:\Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.Form1.resources
+H:\Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.Resources.resources
+H:\Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.vbproj.GenerateResource.Cache
+H:\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.exe
+H:\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.xml
+H:\Assignment Chapter 6 - Daniel Bullock\Exercises\TestBuild\TestBuild\obj\x86\Debug\TestBuild.pdb

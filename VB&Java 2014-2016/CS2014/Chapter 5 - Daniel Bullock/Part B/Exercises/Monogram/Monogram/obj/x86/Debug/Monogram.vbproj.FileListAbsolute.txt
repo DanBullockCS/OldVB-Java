@@ -1,0 +1,48 @@
+C:\Users\desousak\AppData\Local\Temporary Projects\Monogram\bin\Debug\Monogram.exe
+C:\Users\desousak\AppData\Local\Temporary Projects\Monogram\bin\Debug\Monogram.pdb
+C:\Users\desousak\AppData\Local\Temporary Projects\Monogram\bin\Debug\Monogram.xml
+C:\Users\desousak\AppData\Local\Temporary Projects\Monogram\obj\x86\Debug\Monogram.Form1.resources
+C:\Users\desousak\AppData\Local\Temporary Projects\Monogram\obj\x86\Debug\Monogram.Resources.resources
+C:\Users\desousak\AppData\Local\Temporary Projects\Monogram\obj\x86\Debug\Monogram.vbproj.GenerateResource.Cache
+C:\Users\desousak\AppData\Local\Temporary Projects\Monogram\obj\x86\Debug\Monogram.exe
+C:\Users\desousak\AppData\Local\Temporary Projects\Monogram\obj\x86\Debug\Monogram.xml
+C:\Users\desousak\AppData\Local\Temporary Projects\Monogram\obj\x86\Debug\Monogram.pdb
+H:\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.exe
+H:\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.xml
+H:\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.pdb
+H:\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.exe
+H:\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.pdb
+H:\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.xml
+H:\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.Form1.resources
+H:\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.Resources.resources
+H:\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.vbproj.GenerateResource.Cache
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.exe
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.xml
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.pdb
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.exe
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.pdb
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.xml
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.Form1.resources
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.Resources.resources
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.vbproj.GenerateResource.Cache
+E:\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.exe
+E:\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.xml
+E:\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.pdb
+F:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.exe
+F:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.xml
+F:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.pdb
+F:\Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.exe
+F:\Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.pdb
+F:\Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.xml
+F:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.Form1.resources
+F:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.Resources.resources
+F:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.vbproj.GenerateResource.Cache
+E:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.exe
+E:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.xml
+E:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.pdb
+E:\Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.exe
+E:\Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.pdb
+E:\Chapter 5\Part B\Exercises\Monogram\Monogram\bin\Debug\Monogram.xml
+E:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.Form1.resources
+E:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.Resources.resources
+E:\Chapter 5\Part B\Exercises\Monogram\Monogram\obj\x86\Debug\Monogram.vbproj.GenerateResource.Cache

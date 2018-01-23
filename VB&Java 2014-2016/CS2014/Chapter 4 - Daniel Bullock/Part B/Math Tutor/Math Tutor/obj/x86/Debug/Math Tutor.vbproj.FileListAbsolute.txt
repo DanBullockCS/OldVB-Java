@@ -1,0 +1,27 @@
+F:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math_Tutor.Form1.resources
+F:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math_Tutor.Resources.resources
+F:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.vbproj.GenerateResource.Cache
+F:\Part B\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe
+F:\Part B\Math Tutor\Math Tutor\bin\Debug\Math Tutor.pdb
+F:\Part B\Math Tutor\Math Tutor\bin\Debug\Math Tutor.xml
+F:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.exe
+F:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.xml
+F:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.pdb
+E:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.exe
+E:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.xml
+E:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.pdb
+E:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math_Tutor.Form1.resources
+E:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math_Tutor.Resources.resources
+E:\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.vbproj.GenerateResource.Cache
+E:\Part B\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe
+E:\Part B\Math Tutor\Math Tutor\bin\Debug\Math Tutor.pdb
+E:\Part B\Math Tutor\Math Tutor\bin\Debug\Math Tutor.xml
+H:\2014\Chapter 4 - Daniel Bullock\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.exe
+H:\2014\Chapter 4 - Daniel Bullock\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.xml
+H:\2014\Chapter 4 - Daniel Bullock\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.pdb
+H:\2014\Chapter 4 - Daniel Bullock\Part B\Math Tutor\Math Tutor\bin\Debug\Math Tutor.exe
+H:\2014\Chapter 4 - Daniel Bullock\Part B\Math Tutor\Math Tutor\bin\Debug\Math Tutor.pdb
+H:\2014\Chapter 4 - Daniel Bullock\Part B\Math Tutor\Math Tutor\bin\Debug\Math Tutor.xml
+H:\2014\Chapter 4 - Daniel Bullock\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math_Tutor.Form1.resources
+H:\2014\Chapter 4 - Daniel Bullock\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math_Tutor.Resources.resources
+H:\2014\Chapter 4 - Daniel Bullock\Part B\Math Tutor\Math Tutor\obj\x86\Debug\Math Tutor.vbproj.GenerateResource.Cache

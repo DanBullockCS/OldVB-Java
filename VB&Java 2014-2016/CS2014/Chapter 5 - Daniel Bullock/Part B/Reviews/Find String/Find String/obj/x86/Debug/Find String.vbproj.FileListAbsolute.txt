@@ -1,0 +1,12 @@
+F:\Chapter 5\Part B\Reviews\Find String\Find String\bin\Debug\Find String.exe
+F:\Chapter 5\Part B\Reviews\Find String\Find String\bin\Debug\Find String.pdb
+F:\Chapter 5\Part B\Reviews\Find String\Find String\bin\Debug\Find String.xml
+F:\Chapter 5\Part B\Reviews\Find String\Find String\obj\x86\Debug\Find_String.Form1.resources
+F:\Chapter 5\Part B\Reviews\Find String\Find String\obj\x86\Debug\Find_String.Resources.resources
+F:\Chapter 5\Part B\Reviews\Find String\Find String\obj\x86\Debug\Find String.vbproj.GenerateResource.Cache
+F:\Chapter 5\Part B\Reviews\Find String\Find String\obj\x86\Debug\Find String.exe
+F:\Chapter 5\Part B\Reviews\Find String\Find String\obj\x86\Debug\Find String.xml
+F:\Chapter 5\Part B\Reviews\Find String\Find String\obj\x86\Debug\Find String.pdb
+E:\Chapter 5\Part B\Reviews\Find String\Find String\obj\x86\Debug\Find String.exe
+E:\Chapter 5\Part B\Reviews\Find String\Find String\obj\x86\Debug\Find String.xml
+E:\Chapter 5\Part B\Reviews\Find String\Find String\obj\x86\Debug\Find String.pdb

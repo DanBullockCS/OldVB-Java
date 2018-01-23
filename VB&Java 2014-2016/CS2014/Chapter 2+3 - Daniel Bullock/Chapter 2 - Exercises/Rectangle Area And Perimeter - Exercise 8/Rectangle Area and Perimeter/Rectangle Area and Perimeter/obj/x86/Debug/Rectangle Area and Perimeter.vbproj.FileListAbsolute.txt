@@ -1,0 +1,18 @@
+H:\Daniel Bullock\Exercises\Rectangle Area And Perimeter\Rectangle Area and Perimeter\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.exe
+H:\Daniel Bullock\Exercises\Rectangle Area And Perimeter\Rectangle Area and Perimeter\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.pdb
+H:\Daniel Bullock\Exercises\Rectangle Area And Perimeter\Rectangle Area and Perimeter\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.xml
+H:\Daniel Bullock\Exercises\Rectangle Area And Perimeter\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle_Area_and_Perimeter.Form1.resources
+H:\Daniel Bullock\Exercises\Rectangle Area And Perimeter\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle_Area_and_Perimeter.Resources.resources
+H:\Daniel Bullock\Exercises\Rectangle Area And Perimeter\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.vbproj.GenerateResource.Cache
+H:\Daniel Bullock\Exercises\Rectangle Area And Perimeter\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.exe
+H:\Daniel Bullock\Exercises\Rectangle Area And Perimeter\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.xml
+H:\Daniel Bullock\Exercises\Rectangle Area And Perimeter\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.pdb
+H:\Daniel Bullock\Exercises Chapter 2\Rectangle Area And Perimeter - Exercise 8\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.exe
+H:\Daniel Bullock\Exercises Chapter 2\Rectangle Area And Perimeter - Exercise 8\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.xml
+H:\Daniel Bullock\Exercises Chapter 2\Rectangle Area And Perimeter - Exercise 8\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.pdb
+H:\Daniel Bullock\Exercises Chapter 2\Rectangle Area And Perimeter - Exercise 8\Rectangle Area and Perimeter\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.exe
+H:\Daniel Bullock\Exercises Chapter 2\Rectangle Area And Perimeter - Exercise 8\Rectangle Area and Perimeter\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.pdb
+H:\Daniel Bullock\Exercises Chapter 2\Rectangle Area And Perimeter - Exercise 8\Rectangle Area and Perimeter\Rectangle Area and Perimeter\bin\Debug\Rectangle Area and Perimeter.xml
+H:\Daniel Bullock\Exercises Chapter 2\Rectangle Area And Perimeter - Exercise 8\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle_Area_and_Perimeter.Form1.resources
+H:\Daniel Bullock\Exercises Chapter 2\Rectangle Area And Perimeter - Exercise 8\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle_Area_and_Perimeter.Resources.resources
+H:\Daniel Bullock\Exercises Chapter 2\Rectangle Area And Perimeter - Exercise 8\Rectangle Area and Perimeter\Rectangle Area and Perimeter\obj\x86\Debug\Rectangle Area and Perimeter.vbproj.GenerateResource.Cache

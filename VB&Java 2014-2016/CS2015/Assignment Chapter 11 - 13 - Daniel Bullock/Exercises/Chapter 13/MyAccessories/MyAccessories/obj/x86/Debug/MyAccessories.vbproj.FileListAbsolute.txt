@@ -1,0 +1,14 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\bin\Debug\MyAccessories.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\bin\Debug\MyAccessories.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\bin\Debug\MyAccessories.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.Calculator.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.TriangleCalculator.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.TextEditor.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.ClickIt.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 13\MyAccessories\MyAccessories\obj\x86\Debug\MyAccessories.AboutDialogBox.resources

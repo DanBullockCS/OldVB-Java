@@ -1,0 +1,12 @@
+E:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\bin\Debug\Draw Shapes.exe
+E:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\bin\Debug\Draw Shapes.pdb
+E:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\bin\Debug\Draw Shapes.xml
+E:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\obj\x86\Debug\Draw_Shapes.Form1.resources
+E:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\obj\x86\Debug\Draw_Shapes.Resources.resources
+E:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\obj\x86\Debug\Draw Shapes.vbproj.GenerateResource.Cache
+E:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\obj\x86\Debug\Draw Shapes.exe
+E:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\obj\x86\Debug\Draw Shapes.xml
+E:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\obj\x86\Debug\Draw Shapes.pdb
+F:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\obj\x86\Debug\Draw Shapes.exe
+F:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\obj\x86\Debug\Draw Shapes.xml
+F:\Chapter 9\Reviews\Draw Shapes\Draw Shapes\obj\x86\Debug\Draw Shapes.pdb

@@ -1,0 +1,10 @@
+bin\Debug\CafeOrders.exe
+bin\Debug\CafeOrders.pdb
+bin\Debug\CafeOrders.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CafeOrders.Form1.resources
+obj\Debug\CafeOrders.Resources.resources
+obj\Debug\CafeOrders.vbproj.GenerateResource.Cache
+obj\Debug\CafeOrders.exe
+obj\Debug\CafeOrders.xml
+obj\Debug\CafeOrders.pdb

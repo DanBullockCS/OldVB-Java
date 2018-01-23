@@ -1,0 +1,24 @@
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\Chapter 2\Chapter 2\bin\Debug\Chapter 2.exe
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\Chapter 2\Chapter 2\bin\Debug\Chapter 2.pdb
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\Chapter 2\Chapter 2\bin\Debug\Chapter 2.xml
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Message.Message.resources
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Message.Resources.resources
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.vbproj.GenerateResource.Cache
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.exe
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.xml
+\\a-fs-02\home$\bullockd\my documents\visual studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.pdb
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.exe
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.xml
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.pdb
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\bin\Debug\Chapter 2.exe
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\bin\Debug\Chapter 2.pdb
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\bin\Debug\Chapter 2.xml
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Message.Message.resources
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Message.Resources.resources
+H:\Daniel Bullock\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.vbproj.GenerateResource.Cache
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2\Visual Studio 2010\Projects\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.pdb
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2 - Reviews\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2 - Reviews\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 2 - Reviews\Chapter 2\Chapter 2\obj\x86\Debug\Chapter 2.pdb

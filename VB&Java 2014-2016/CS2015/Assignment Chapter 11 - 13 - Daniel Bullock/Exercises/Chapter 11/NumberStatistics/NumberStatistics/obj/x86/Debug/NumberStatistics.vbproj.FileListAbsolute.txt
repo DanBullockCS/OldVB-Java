@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\NumberStatistics\NumberStatistics\bin\Debug\NumberStatistics.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\NumberStatistics\NumberStatistics\bin\Debug\NumberStatistics.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\NumberStatistics\NumberStatistics\bin\Debug\NumberStatistics.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\NumberStatistics\NumberStatistics\obj\x86\Debug\NumberStatistics.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\NumberStatistics\NumberStatistics\obj\x86\Debug\NumberStatistics.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\NumberStatistics\NumberStatistics\obj\x86\Debug\NumberStatistics.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\NumberStatistics\NumberStatistics\obj\x86\Debug\NumberStatistics.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\NumberStatistics\NumberStatistics\obj\x86\Debug\NumberStatistics.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\NumberStatistics\NumberStatistics\obj\x86\Debug\NumberStatistics.pdb

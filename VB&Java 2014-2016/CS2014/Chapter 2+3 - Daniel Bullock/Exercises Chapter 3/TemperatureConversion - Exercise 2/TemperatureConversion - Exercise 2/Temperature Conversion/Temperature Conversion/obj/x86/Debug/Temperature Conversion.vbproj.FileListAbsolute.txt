@@ -1,0 +1,30 @@
+C:\Users\bullockd\AppData\Local\Temporary Projects\Temperature Conversion\obj\x86\Debug\Temperature_Conversion.Form1.resources
+C:\Users\bullockd\AppData\Local\Temporary Projects\Temperature Conversion\obj\x86\Debug\Temperature_Conversion.Resources.resources
+C:\Users\bullockd\AppData\Local\Temporary Projects\Temperature Conversion\obj\x86\Debug\Temperature Conversion.vbproj.GenerateResource.Cache
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.exe
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.pdb
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.xml
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature_Conversion.Form1.resources
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature_Conversion.Resources.resources
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.vbproj.GenerateResource.Cache
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.exe
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.xml
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.pdb
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.exe
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.xml
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.pdb
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.exe
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.pdb
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.xml
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature_Conversion.Form1.resources
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature_Conversion.Resources.resources
+H:\Daniel Bullock\Exercises Chapter 3\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.vbproj.GenerateResource.Cache
+F:\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.exe
+F:\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.xml
+F:\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.pdb
+F:\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.exe
+F:\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.pdb
+F:\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\bin\Debug\Temperature Conversion.xml
+F:\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature_Conversion.Form1.resources
+F:\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature_Conversion.Resources.resources
+F:\TemperatureConversion - Exercise 2\Temperature Conversion\Temperature Conversion\obj\x86\Debug\Temperature Conversion.vbproj.GenerateResource.Cache

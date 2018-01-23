@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "BowlingScores", "BowlingScores\BowlingScores.vbproj", "{B57A475F-2D06-4121-8EE7-C7826B9FB2FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57A475F-2D06-4121-8EE7-C7826B9FB2FC}.Debug|x86.ActiveCfg = Debug|x86
+		{B57A475F-2D06-4121-8EE7-C7826B9FB2FC}.Debug|x86.Build.0 = Debug|x86
+		{B57A475F-2D06-4121-8EE7-C7826B9FB2FC}.Release|x86.ActiveCfg = Release|x86
+		{B57A475F-2D06-4121-8EE7-C7826B9FB2FC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

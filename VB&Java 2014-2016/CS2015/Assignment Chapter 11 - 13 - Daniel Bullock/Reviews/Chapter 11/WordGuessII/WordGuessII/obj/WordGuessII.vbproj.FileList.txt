@@ -1,0 +1,10 @@
+bin\Debug\WordGuessII.exe
+bin\Debug\WordGuessII.pdb
+bin\Debug\WordGuessII.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WordGuessII.Form1.resources
+obj\Debug\WordGuessII.Resources.resources
+obj\Debug\WordGuessII.vbproj.GenerateResource.Cache
+obj\Debug\WordGuessII.exe
+obj\Debug\WordGuessII.xml
+obj\Debug\WordGuessII.pdb

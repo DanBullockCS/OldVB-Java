@@ -1,0 +1,18 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\WriteFile\WriteFile\bin\Debug\WriteFile.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\WriteFile\WriteFile\bin\Debug\WriteFile.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\WriteFile\WriteFile\bin\Debug\WriteFile.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\WriteFile\WriteFile\obj\x86\Debug\WriteFile.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\WriteFile\WriteFile\obj\x86\Debug\WriteFile.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\WriteFile\WriteFile\obj\x86\Debug\WriteFile.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\WriteFile\WriteFile\obj\x86\Debug\WriteFile.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\WriteFile\WriteFile\obj\x86\Debug\WriteFile.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\WriteFile\WriteFile\obj\x86\Debug\WriteFile.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\WriteFile\WriteFile\obj\x86\Debug\WriteFile.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\WriteFile\WriteFile\obj\x86\Debug\WriteFile.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\WriteFile\WriteFile\obj\x86\Debug\WriteFile.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\WriteFile\WriteFile\bin\Debug\WriteFile.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\WriteFile\WriteFile\bin\Debug\WriteFile.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\WriteFile\WriteFile\bin\Debug\WriteFile.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\WriteFile\WriteFile\obj\x86\Debug\WriteFile.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\WriteFile\WriteFile\obj\x86\Debug\WriteFile.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\WriteFile\WriteFile\obj\x86\Debug\WriteFile.vbproj.GenerateResource.Cache

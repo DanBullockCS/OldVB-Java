@@ -1,0 +1,45 @@
+E:\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+E:\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+E:\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+E:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Form1.resources
+E:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Resources.resources
+E:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.vbproj.GenerateResource.Cache
+E:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.exe
+E:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.xml
+E:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.pdb
+F:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.exe
+F:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.xml
+F:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.pdb
+F:\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+F:\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+F:\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+F:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Form1.resources
+F:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Resources.resources
+F:\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.vbproj.GenerateResource.Cache
+E:\Part C\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.exe
+E:\Part C\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.xml
+E:\Part C\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.pdb
+E:\Part C\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+E:\Part C\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+E:\Part C\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+E:\Part C\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Form1.resources
+E:\Part C\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Resources.resources
+E:\Part C\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.vbproj.GenerateResource.Cache
+H:\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.exe
+H:\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.xml
+H:\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.pdb
+H:\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+H:\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+H:\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+H:\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Form1.resources
+H:\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Resources.resources
+H:\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.vbproj.GenerateResource.Cache
+H:\2014\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.exe
+H:\2014\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.xml
+H:\2014\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.pdb
+H:\2014\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+H:\2014\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+H:\2014\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\bin\Debug\RockPaperScissors.xml
+H:\2014\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Form1.resources
+H:\2014\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.Resources.resources
+H:\2014\Chapter 4 - Daniel Bullock\Part B\RockPaperScissors\RockPaperScissors\obj\x86\Debug\RockPaperScissors.vbproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\NumberBreakdown\NumberBreakdown\bin\Debug\NumberBreakdown.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\NumberBreakdown\NumberBreakdown\bin\Debug\NumberBreakdown.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\NumberBreakdown\NumberBreakdown\bin\Debug\NumberBreakdown.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\NumberBreakdown\NumberBreakdown\obj\x86\Debug\NumberBreakdown.Form1.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\NumberBreakdown\NumberBreakdown\obj\x86\Debug\NumberBreakdown.Resources.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\NumberBreakdown\NumberBreakdown\obj\x86\Debug\NumberBreakdown.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\NumberBreakdown\NumberBreakdown\obj\x86\Debug\NumberBreakdown.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\NumberBreakdown\NumberBreakdown\obj\x86\Debug\NumberBreakdown.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\NumberBreakdown\NumberBreakdown\obj\x86\Debug\NumberBreakdown.pdb

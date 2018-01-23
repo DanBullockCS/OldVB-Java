@@ -1,0 +1,46 @@
+NOTES.TXT
+
+import javax.swing.*;
+JOptionPane.showInputDialog("");
+JOptionPane.showMessageDialog("");
+
+System.out.println("")
+
+ArraysName[][] = new double[69][69];
+ArraysName[][] = {{1, 2}, {3, 4}, {5, 
+
+ArrayList<String> ArraysName= new ArrayList<String>();
+.get, .add, .remove
+
+if (Cats.equalsIgnoreCase("KittyMeowMeow")) {
+}
+
+for (int i = 0; i < 69; i++) {
+}
+
+While (i != 0) {
+}
+
+ParseInt and ToString methods
+
+randomNum = minimum + (int)(Math.random() * maximum); 
+Math.round(number)
+
+READING A FILE
+public static void main(String[] args) throws IOException {
+        String textfile = JOptionPane.showInputDialog("Please enter a file name:");
+        BufferedReader readFile = new BufferedReader(new FileReader(textfile));
+        String myLine;//Each line as a string
+        //Read file
+        while ((myLine = readFile.readLine()) != null) {
+        System.out.println(myLine); //print out the line
+        }
+        readFile.close();   //close the file
+
+A recursive program, function, or procedure invokes itself in processing the problem it is programmed to resolve.
+
+Object-oriented programming (OOP) is a problem-solving technique. It is a way 
+of organizing your code into small, specific chunks (objects) in order to make the development of your application more manageable.
+
+Classes are collections of related functions and variables gathered together to achieve one or more specific goals. In classes, 
+the functions are called methods, and the variables are called properties.

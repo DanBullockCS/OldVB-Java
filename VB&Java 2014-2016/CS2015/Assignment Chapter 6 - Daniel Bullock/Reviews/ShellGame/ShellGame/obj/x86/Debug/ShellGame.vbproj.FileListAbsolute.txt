@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\ShellGame\ShellGame\bin\Debug\ShellGame.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\ShellGame\ShellGame\bin\Debug\ShellGame.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\ShellGame\ShellGame\bin\Debug\ShellGame.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\ShellGame\ShellGame\obj\x86\Debug\ShellGame.Form1.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\ShellGame\ShellGame\obj\x86\Debug\ShellGame.Resources.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\ShellGame\ShellGame\obj\x86\Debug\ShellGame.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\ShellGame\ShellGame\obj\x86\Debug\ShellGame.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\ShellGame\ShellGame\obj\x86\Debug\ShellGame.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\ShellGame\ShellGame\obj\x86\Debug\ShellGame.pdb

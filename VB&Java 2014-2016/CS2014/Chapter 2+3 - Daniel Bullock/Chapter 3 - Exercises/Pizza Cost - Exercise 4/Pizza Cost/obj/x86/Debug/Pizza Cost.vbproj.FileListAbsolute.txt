@@ -1,0 +1,9 @@
+H:\Daniel Bullock\Exercises Chapter 3\Pizza Cost - Exercise 4\Pizza Cost\bin\Debug\Pizza Cost.exe
+H:\Daniel Bullock\Exercises Chapter 3\Pizza Cost - Exercise 4\Pizza Cost\bin\Debug\Pizza Cost.pdb
+H:\Daniel Bullock\Exercises Chapter 3\Pizza Cost - Exercise 4\Pizza Cost\bin\Debug\Pizza Cost.xml
+H:\Daniel Bullock\Exercises Chapter 3\Pizza Cost - Exercise 4\Pizza Cost\obj\x86\Debug\Pizza_Cost.Form1.resources
+H:\Daniel Bullock\Exercises Chapter 3\Pizza Cost - Exercise 4\Pizza Cost\obj\x86\Debug\Pizza_Cost.Resources.resources
+H:\Daniel Bullock\Exercises Chapter 3\Pizza Cost - Exercise 4\Pizza Cost\obj\x86\Debug\Pizza Cost.vbproj.GenerateResource.Cache
+H:\Daniel Bullock\Exercises Chapter 3\Pizza Cost - Exercise 4\Pizza Cost\obj\x86\Debug\Pizza Cost.exe
+H:\Daniel Bullock\Exercises Chapter 3\Pizza Cost - Exercise 4\Pizza Cost\obj\x86\Debug\Pizza Cost.xml
+H:\Daniel Bullock\Exercises Chapter 3\Pizza Cost - Exercise 4\Pizza Cost\obj\x86\Debug\Pizza Cost.pdb

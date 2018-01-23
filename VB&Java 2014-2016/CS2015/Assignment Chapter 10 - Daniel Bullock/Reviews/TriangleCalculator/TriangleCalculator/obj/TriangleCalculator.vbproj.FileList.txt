@@ -1,0 +1,10 @@
+bin\Debug\TriangleCalculator.exe
+bin\Debug\TriangleCalculator.pdb
+bin\Debug\TriangleCalculator.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\TriangleCalculator.Form1.resources
+obj\Debug\TriangleCalculator.Resources.resources
+obj\Debug\TriangleCalculator.vbproj.GenerateResource.Cache
+obj\Debug\TriangleCalculator.exe
+obj\Debug\TriangleCalculator.xml
+obj\Debug\TriangleCalculator.pdb

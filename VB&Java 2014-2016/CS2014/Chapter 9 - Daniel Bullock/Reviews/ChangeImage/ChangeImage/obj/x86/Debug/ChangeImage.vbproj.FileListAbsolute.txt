@@ -1,0 +1,12 @@
+E:\Chapter 9\Reviews\ChangeImage\ChangeImage\bin\Debug\ChangeImage.exe
+E:\Chapter 9\Reviews\ChangeImage\ChangeImage\bin\Debug\ChangeImage.pdb
+E:\Chapter 9\Reviews\ChangeImage\ChangeImage\bin\Debug\ChangeImage.xml
+E:\Chapter 9\Reviews\ChangeImage\ChangeImage\obj\x86\Debug\ChangeImage.Form1.resources
+E:\Chapter 9\Reviews\ChangeImage\ChangeImage\obj\x86\Debug\ChangeImage.Resources.resources
+E:\Chapter 9\Reviews\ChangeImage\ChangeImage\obj\x86\Debug\ChangeImage.vbproj.GenerateResource.Cache
+E:\Chapter 9\Reviews\ChangeImage\ChangeImage\obj\x86\Debug\ChangeImage.exe
+E:\Chapter 9\Reviews\ChangeImage\ChangeImage\obj\x86\Debug\ChangeImage.xml
+E:\Chapter 9\Reviews\ChangeImage\ChangeImage\obj\x86\Debug\ChangeImage.pdb
+F:\Chapter 9\Reviews\ChangeImage\ChangeImage\obj\x86\Debug\ChangeImage.exe
+F:\Chapter 9\Reviews\ChangeImage\ChangeImage\obj\x86\Debug\ChangeImage.xml
+F:\Chapter 9\Reviews\ChangeImage\ChangeImage\obj\x86\Debug\ChangeImage.pdb

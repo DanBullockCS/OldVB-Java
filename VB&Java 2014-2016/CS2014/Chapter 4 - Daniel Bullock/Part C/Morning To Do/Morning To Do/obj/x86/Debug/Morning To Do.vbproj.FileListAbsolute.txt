@@ -1,0 +1,9 @@
+E:\Part B\Morning To Do\Morning To Do\bin\Debug\Morning To Do.exe
+E:\Part B\Morning To Do\Morning To Do\bin\Debug\Morning To Do.pdb
+E:\Part B\Morning To Do\Morning To Do\bin\Debug\Morning To Do.xml
+E:\Part B\Morning To Do\Morning To Do\obj\x86\Debug\Morning_To_Do.Form1.resources
+E:\Part B\Morning To Do\Morning To Do\obj\x86\Debug\Morning_To_Do.Resources.resources
+E:\Part B\Morning To Do\Morning To Do\obj\x86\Debug\Morning To Do.vbproj.GenerateResource.Cache
+E:\Part B\Morning To Do\Morning To Do\obj\x86\Debug\Morning To Do.exe
+E:\Part B\Morning To Do\Morning To Do\obj\x86\Debug\Morning To Do.xml
+E:\Part B\Morning To Do\Morning To Do\obj\x86\Debug\Morning To Do.pdb

@@ -1,0 +1,9 @@
+E:\Printing Prices\Printing Prices\obj\x86\Debug\Printing_Prices.Form1.resources
+E:\Printing Prices\Printing Prices\obj\x86\Debug\Printing_Prices.Resources.resources
+E:\Printing Prices\Printing Prices\obj\x86\Debug\Printing Prices.vbproj.GenerateResource.Cache
+E:\Printing Prices\Printing Prices\bin\Debug\Printing Prices.exe
+E:\Printing Prices\Printing Prices\bin\Debug\Printing Prices.pdb
+E:\Printing Prices\Printing Prices\bin\Debug\Printing Prices.xml
+E:\Printing Prices\Printing Prices\obj\x86\Debug\Printing Prices.exe
+E:\Printing Prices\Printing Prices\obj\x86\Debug\Printing Prices.xml
+E:\Printing Prices\Printing Prices\obj\x86\Debug\Printing Prices.pdb

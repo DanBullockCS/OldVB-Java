@@ -1,0 +1,9 @@
+H:\Daniel Bullock\Exercises\AdditionProperties\AdditionProperties\bin\Debug\AdditionProperties.exe
+H:\Daniel Bullock\Exercises\AdditionProperties\AdditionProperties\bin\Debug\AdditionProperties.pdb
+H:\Daniel Bullock\Exercises\AdditionProperties\AdditionProperties\bin\Debug\AdditionProperties.xml
+H:\Daniel Bullock\Exercises\AdditionProperties\AdditionProperties\obj\x86\Debug\AdditionProperties.Form1.resources
+H:\Daniel Bullock\Exercises\AdditionProperties\AdditionProperties\obj\x86\Debug\AdditionProperties.Resources.resources
+H:\Daniel Bullock\Exercises\AdditionProperties\AdditionProperties\obj\x86\Debug\AdditionProperties.vbproj.GenerateResource.Cache
+H:\Daniel Bullock\Exercises\AdditionProperties\AdditionProperties\obj\x86\Debug\AdditionProperties.exe
+H:\Daniel Bullock\Exercises\AdditionProperties\AdditionProperties\obj\x86\Debug\AdditionProperties.xml
+H:\Daniel Bullock\Exercises\AdditionProperties\AdditionProperties\obj\x86\Debug\AdditionProperties.pdb

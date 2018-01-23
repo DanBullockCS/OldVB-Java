@@ -1,0 +1,12 @@
+E:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\bin\Debug\CompareWords.exe
+E:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\bin\Debug\CompareWords.pdb
+E:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\bin\Debug\CompareWords.xml
+E:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\obj\x86\Debug\CompareWords.Form1.resources
+E:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\obj\x86\Debug\CompareWords.Resources.resources
+E:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\obj\x86\Debug\CompareWords.vbproj.GenerateResource.Cache
+E:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\obj\x86\Debug\CompareWords.exe
+E:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\obj\x86\Debug\CompareWords.xml
+E:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\obj\x86\Debug\CompareWords.pdb
+F:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\obj\x86\Debug\CompareWords.exe
+F:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\obj\x86\Debug\CompareWords.xml
+F:\Chapter 5\Part B\Reviews\CompareWords\CompareWords\obj\x86\Debug\CompareWords.pdb

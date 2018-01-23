@@ -1,0 +1,12 @@
+E:\Chapter 5\Reviews\AverageScore\AverageScore\bin\Debug\AverageScore.exe
+E:\Chapter 5\Reviews\AverageScore\AverageScore\bin\Debug\AverageScore.pdb
+E:\Chapter 5\Reviews\AverageScore\AverageScore\bin\Debug\AverageScore.xml
+E:\Chapter 5\Reviews\AverageScore\AverageScore\obj\x86\Debug\AverageScore.Form1.resources
+E:\Chapter 5\Reviews\AverageScore\AverageScore\obj\x86\Debug\AverageScore.Resources.resources
+E:\Chapter 5\Reviews\AverageScore\AverageScore\obj\x86\Debug\AverageScore.vbproj.GenerateResource.Cache
+E:\Chapter 5\Reviews\AverageScore\AverageScore\obj\x86\Debug\AverageScore.exe
+E:\Chapter 5\Reviews\AverageScore\AverageScore\obj\x86\Debug\AverageScore.xml
+E:\Chapter 5\Reviews\AverageScore\AverageScore\obj\x86\Debug\AverageScore.pdb
+F:\Chapter 5\Part A\Reviews\AverageScore\AverageScore\obj\x86\Debug\AverageScore.exe
+F:\Chapter 5\Part A\Reviews\AverageScore\AverageScore\obj\x86\Debug\AverageScore.xml
+F:\Chapter 5\Part A\Reviews\AverageScore\AverageScore\obj\x86\Debug\AverageScore.pdb

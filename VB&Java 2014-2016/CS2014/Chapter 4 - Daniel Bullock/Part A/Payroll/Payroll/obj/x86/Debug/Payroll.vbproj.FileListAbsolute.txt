@@ -1,0 +1,21 @@
+E:\Payroll\Payroll\bin\Debug\Payroll.exe
+E:\Payroll\Payroll\bin\Debug\Payroll.pdb
+E:\Payroll\Payroll\bin\Debug\Payroll.xml
+E:\Payroll\Payroll\obj\x86\Debug\Payroll.Form1.resources
+E:\Payroll\Payroll\obj\x86\Debug\Payroll.Resources.resources
+E:\Payroll\Payroll\obj\x86\Debug\Payroll.vbproj.GenerateResource.Cache
+E:\Payroll\Payroll\obj\x86\Debug\Payroll.exe
+E:\Payroll\Payroll\obj\x86\Debug\Payroll.xml
+E:\Payroll\Payroll\obj\x86\Debug\Payroll.pdb
+F:\Payroll\Payroll\obj\x86\Debug\Payroll.exe
+F:\Payroll\Payroll\obj\x86\Debug\Payroll.xml
+F:\Payroll\Payroll\obj\x86\Debug\Payroll.pdb
+F:\Payroll\Payroll\bin\Debug\Payroll.exe
+F:\Payroll\Payroll\bin\Debug\Payroll.pdb
+F:\Payroll\Payroll\bin\Debug\Payroll.xml
+F:\Payroll\Payroll\obj\x86\Debug\Payroll.Form1.resources
+F:\Payroll\Payroll\obj\x86\Debug\Payroll.Resources.resources
+F:\Payroll\Payroll\obj\x86\Debug\Payroll.vbproj.GenerateResource.Cache
+E:\Part A\Payroll\Payroll\obj\x86\Debug\Payroll.exe
+E:\Part A\Payroll\Payroll\obj\x86\Debug\Payroll.xml
+E:\Part A\Payroll\Payroll\obj\x86\Debug\Payroll.pdb

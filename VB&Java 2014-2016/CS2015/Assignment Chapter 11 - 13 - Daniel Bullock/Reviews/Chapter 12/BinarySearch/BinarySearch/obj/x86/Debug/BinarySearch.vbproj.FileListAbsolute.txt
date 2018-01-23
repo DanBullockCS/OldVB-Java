@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\BinarySearch\BinarySearch\bin\Debug\BinarySearch.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\BinarySearch\BinarySearch\obj\x86\Debug\BinarySearch.Form1.resources

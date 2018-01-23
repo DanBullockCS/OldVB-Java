@@ -1,0 +1,18 @@
+E:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word_Guess.Form1.resources
+E:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word_Guess.Resources.resources
+E:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word Guess.vbproj.GenerateResource.Cache
+E:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\bin\Debug\Word Guess.exe
+E:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\bin\Debug\Word Guess.pdb
+E:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\bin\Debug\Word Guess.xml
+E:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word Guess.exe
+E:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word Guess.xml
+E:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word Guess.pdb
+F:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word Guess.exe
+F:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word Guess.xml
+F:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word Guess.pdb
+F:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\bin\Debug\Word Guess.exe
+F:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\bin\Debug\Word Guess.pdb
+F:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\bin\Debug\Word Guess.xml
+F:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word_Guess.Form1.resources
+F:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word_Guess.Resources.resources
+F:\Chapter 5\Part B\Reviews\Word Guess\Word Guess\obj\x86\Debug\Word Guess.vbproj.GenerateResource.Cache

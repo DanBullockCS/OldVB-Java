@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 12\SortByField\SortByField\bin\Debug\SortByField.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 12\SortByField\SortByField\bin\Debug\SortByField.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 12\SortByField\SortByField\bin\Debug\SortByField.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 12\SortByField\SortByField\obj\x86\Debug\SortByField.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 12\SortByField\SortByField\obj\x86\Debug\SortByField.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 12\SortByField\SortByField\obj\x86\Debug\SortByField.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 12\SortByField\SortByField\obj\x86\Debug\SortByField.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 12\SortByField\SortByField\obj\x86\Debug\SortByField.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Exercises\Chapter 12\SortByField\SortByField\obj\x86\Debug\SortByField.pdb

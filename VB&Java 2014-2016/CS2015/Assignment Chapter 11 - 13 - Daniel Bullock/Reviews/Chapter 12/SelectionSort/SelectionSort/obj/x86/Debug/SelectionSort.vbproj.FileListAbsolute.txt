@@ -1,0 +1,8 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\SelectionSort\SelectionSort\bin\Debug\SelectionSort.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 12\SelectionSort\SelectionSort\obj\x86\Debug\SelectionSort.pdb

@@ -1,0 +1,18 @@
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\bin\Debug\Funny Sentences.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\bin\Debug\Funny Sentences.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\bin\Debug\Funny Sentences.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny_Sentences.Form1.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny_Sentences.Resources.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny Sentences.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny Sentences.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny Sentences.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny Sentences.pdb
+H:\Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny Sentences.exe
+H:\Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny Sentences.xml
+H:\Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny Sentences.pdb
+H:\Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\bin\Debug\Funny Sentences.exe
+H:\Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\bin\Debug\Funny Sentences.pdb
+H:\Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\bin\Debug\Funny Sentences.xml
+H:\Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny_Sentences.Form1.resources
+H:\Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny_Sentences.Resources.resources
+H:\Chapter 6 - Daniel Bullock\Exercises\Funny Sentences\Funny Sentences\obj\x86\Debug\Funny Sentences.vbproj.GenerateResource.Cache

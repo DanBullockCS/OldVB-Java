@@ -1,0 +1,18 @@
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers\DynamicNumbers\bin\Debug\DynamicNumbers.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers\DynamicNumbers\bin\Debug\DynamicNumbers.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers\DynamicNumbers\bin\Debug\DynamicNumbers.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers\DynamicNumbers\obj\x86\Debug\DynamicNumbers.Form1.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers\DynamicNumbers\obj\x86\Debug\DynamicNumbers.Resources.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers\DynamicNumbers\obj\x86\Debug\DynamicNumbers.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers\DynamicNumbers\obj\x86\Debug\DynamicNumbers.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers\DynamicNumbers\obj\x86\Debug\DynamicNumbers.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers\DynamicNumbers\obj\x86\Debug\DynamicNumbers.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers (Part B)\DynamicNumbers\obj\x86\Debug\DynamicNumbers.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers (Part B)\DynamicNumbers\obj\x86\Debug\DynamicNumbers.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers (Part B)\DynamicNumbers\obj\x86\Debug\DynamicNumbers.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers (Part B)\DynamicNumbers\bin\Debug\DynamicNumbers.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers (Part B)\DynamicNumbers\bin\Debug\DynamicNumbers.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers (Part B)\DynamicNumbers\bin\Debug\DynamicNumbers.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers (Part B)\DynamicNumbers\obj\x86\Debug\DynamicNumbers.Form1.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers (Part B)\DynamicNumbers\obj\x86\Debug\DynamicNumbers.Resources.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Exercises\DynamicNumbers (Part B)\DynamicNumbers\obj\x86\Debug\DynamicNumbers.vbproj.GenerateResource.Cache

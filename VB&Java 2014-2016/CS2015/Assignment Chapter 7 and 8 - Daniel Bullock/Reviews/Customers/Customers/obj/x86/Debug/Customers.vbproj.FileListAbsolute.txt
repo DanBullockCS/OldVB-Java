@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Customers\Customers\obj\x86\Debug\Customers.Form1.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Customers\Customers\obj\x86\Debug\Customers.Resources.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Customers\Customers\obj\x86\Debug\Customers.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Customers\Customers\bin\Debug\Customers.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Customers\Customers\bin\Debug\Customers.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Customers\Customers\bin\Debug\Customers.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Customers\Customers\obj\x86\Debug\Customers.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Customers\Customers\obj\x86\Debug\Customers.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Customers\Customers\obj\x86\Debug\Customers.pdb

@@ -1,0 +1,9 @@
+E:\Part C\BasicMultiplication\BasicMultiplication\bin\Debug\BasicMultiplication.exe
+E:\Part C\BasicMultiplication\BasicMultiplication\bin\Debug\BasicMultiplication.pdb
+E:\Part C\BasicMultiplication\BasicMultiplication\bin\Debug\BasicMultiplication.xml
+E:\Part C\BasicMultiplication\BasicMultiplication\obj\x86\Debug\BasicMultiplication.Form1.resources
+E:\Part C\BasicMultiplication\BasicMultiplication\obj\x86\Debug\BasicMultiplication.Resources.resources
+E:\Part C\BasicMultiplication\BasicMultiplication\obj\x86\Debug\BasicMultiplication.vbproj.GenerateResource.Cache
+E:\Part C\BasicMultiplication\BasicMultiplication\obj\x86\Debug\BasicMultiplication.exe
+E:\Part C\BasicMultiplication\BasicMultiplication\obj\x86\Debug\BasicMultiplication.xml
+E:\Part C\BasicMultiplication\BasicMultiplication\obj\x86\Debug\BasicMultiplication.pdb

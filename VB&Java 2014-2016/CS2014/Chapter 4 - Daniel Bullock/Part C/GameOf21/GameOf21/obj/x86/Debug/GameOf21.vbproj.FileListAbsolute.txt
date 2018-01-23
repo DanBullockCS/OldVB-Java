@@ -1,0 +1,27 @@
+E:\Part C\GameOf21\GameOf21\bin\Debug\GameOf21.exe
+E:\Part C\GameOf21\GameOf21\bin\Debug\GameOf21.pdb
+E:\Part C\GameOf21\GameOf21\bin\Debug\GameOf21.xml
+E:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.Form1.resources
+E:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.Resources.resources
+E:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.vbproj.GenerateResource.Cache
+E:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.exe
+E:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.xml
+E:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.pdb
+F:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.exe
+F:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.xml
+F:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.pdb
+F:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.Form1.resources
+F:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.Resources.resources
+F:\Part C\GameOf21\GameOf21\obj\x86\Debug\GameOf21.vbproj.GenerateResource.Cache
+F:\Part C\GameOf21\GameOf21\bin\Debug\GameOf21.exe
+F:\Part C\GameOf21\GameOf21\bin\Debug\GameOf21.pdb
+F:\Part C\GameOf21\GameOf21\bin\Debug\GameOf21.xml
+H:\Chapter 4 - Daniel Bullock\Exercises Chapter 4\GameOf21\GameOf21\obj\x86\Debug\GameOf21.exe
+H:\Chapter 4 - Daniel Bullock\Exercises Chapter 4\GameOf21\GameOf21\obj\x86\Debug\GameOf21.xml
+H:\Chapter 4 - Daniel Bullock\Exercises Chapter 4\GameOf21\GameOf21\obj\x86\Debug\GameOf21.pdb
+H:\Chapter 4 - Daniel Bullock\Exercises Chapter 4\GameOf21\GameOf21\bin\Debug\GameOf21.exe
+H:\Chapter 4 - Daniel Bullock\Exercises Chapter 4\GameOf21\GameOf21\bin\Debug\GameOf21.pdb
+H:\Chapter 4 - Daniel Bullock\Exercises Chapter 4\GameOf21\GameOf21\bin\Debug\GameOf21.xml
+H:\Chapter 4 - Daniel Bullock\Exercises Chapter 4\GameOf21\GameOf21\obj\x86\Debug\GameOf21.Form1.resources
+H:\Chapter 4 - Daniel Bullock\Exercises Chapter 4\GameOf21\GameOf21\obj\x86\Debug\GameOf21.Resources.resources
+H:\Chapter 4 - Daniel Bullock\Exercises Chapter 4\GameOf21\GameOf21\obj\x86\Debug\GameOf21.vbproj.GenerateResource.Cache

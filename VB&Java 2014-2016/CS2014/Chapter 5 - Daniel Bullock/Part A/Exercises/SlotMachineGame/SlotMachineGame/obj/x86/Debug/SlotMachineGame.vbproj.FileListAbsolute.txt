@@ -1,0 +1,15 @@
+E:\Chapter 5\Exercises\SlotMachineGame\SlotMachineGame\bin\Debug\SlotMachineGame.exe
+E:\Chapter 5\Exercises\SlotMachineGame\SlotMachineGame\bin\Debug\SlotMachineGame.pdb
+E:\Chapter 5\Exercises\SlotMachineGame\SlotMachineGame\bin\Debug\SlotMachineGame.xml
+E:\Chapter 5\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.Form1.resources
+E:\Chapter 5\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.Resources.resources
+E:\Chapter 5\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.vbproj.GenerateResource.Cache
+E:\Chapter 5\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.exe
+E:\Chapter 5\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.xml
+E:\Chapter 5\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.pdb
+F:\Chapter 5\Part A\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.exe
+F:\Chapter 5\Part A\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.xml
+F:\Chapter 5\Part A\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.pdb
+H:\Chapter 5 - Daniel Bullock\Part A\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.exe
+H:\Chapter 5 - Daniel Bullock\Part A\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.xml
+H:\Chapter 5 - Daniel Bullock\Part A\Exercises\SlotMachineGame\SlotMachineGame\obj\x86\Debug\SlotMachineGame.pdb

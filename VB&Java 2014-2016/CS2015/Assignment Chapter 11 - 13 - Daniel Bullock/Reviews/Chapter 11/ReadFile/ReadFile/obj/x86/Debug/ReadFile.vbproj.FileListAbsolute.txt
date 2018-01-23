@@ -1,0 +1,12 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\ReadFile\ReadFile\bin\Debug\ReadFile.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\ReadFile\ReadFile\bin\Debug\ReadFile.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\ReadFile\ReadFile\bin\Debug\ReadFile.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\ReadFile\ReadFile\obj\x86\Debug\ReadFile.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\ReadFile\ReadFile\obj\x86\Debug\ReadFile.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\ReadFile\ReadFile\obj\x86\Debug\ReadFile.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\ReadFile\ReadFile\obj\x86\Debug\ReadFile.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\ReadFile\ReadFile\obj\x86\Debug\ReadFile.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\ReadFile\ReadFile\obj\x86\Debug\ReadFile.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\ReadFile\ReadFile\obj\x86\Debug\ReadFile.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\ReadFile\ReadFile\obj\x86\Debug\ReadFile.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\Chapter 11\ReadFile\ReadFile\obj\x86\Debug\ReadFile.pdb

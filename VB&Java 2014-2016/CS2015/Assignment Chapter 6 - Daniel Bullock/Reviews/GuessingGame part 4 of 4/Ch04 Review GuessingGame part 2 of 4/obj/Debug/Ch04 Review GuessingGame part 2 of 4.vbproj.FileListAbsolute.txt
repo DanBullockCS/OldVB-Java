@@ -1,0 +1,56 @@
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04_Review_GuessingGame_part_2_of_4.Form1.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04_Review_GuessingGame_part_2_of_4.Resources.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.vbproj.GenerateResource.Cache
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04_Review_GuessingGame_part_2_of_4.Form1.resources
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04_Review_GuessingGame_part_2_of_4.Resources.resources
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jan\Documents\LVP Printings\VB2008\VB 2008 REVIEW ANSWERS\VB 2008 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04_Review_GuessingGame_part_2_of_4.Form1.resources
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04_Review_GuessingGame_part_2_of_4.Resources.resources
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\VB 2010 REVIEW ANSWERS\VB 2010 REVIEW ANSWERS\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\GenerateResource.write.1.tlog
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04_Review_GuessingGame_part_2_of_4.Form1.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04_Review_GuessingGame_part_2_of_4.Resources.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\Ch04 Review GuessingGame part 2 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 3 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 3 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 3 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 4 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 4 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 4 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 3 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 3 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 3 of 4\Ch04 Review GuessingGame part 2 of 4\bin\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 3 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04_Review_GuessingGame_part_2_of_4.Form1.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 3 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04_Review_GuessingGame_part_2_of_4.Resources.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 3 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.vbproj.GenerateResource.Cache
+H:\Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 4 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.exe
+H:\Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 4 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.xml
+H:\Chapter 6 - Daniel Bullock\Reviews\GuessingGame part 4 of 4\Ch04 Review GuessingGame part 2 of 4\obj\Debug\Ch04 Review GuessingGame part 2 of 4.pdb

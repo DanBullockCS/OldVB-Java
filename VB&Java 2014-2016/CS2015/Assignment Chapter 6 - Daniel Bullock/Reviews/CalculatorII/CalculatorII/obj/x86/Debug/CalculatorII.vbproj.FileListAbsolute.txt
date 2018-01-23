@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\CalculatorII\CalculatorII\bin\Debug\CalculatorII.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\CalculatorII\CalculatorII\bin\Debug\CalculatorII.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\CalculatorII\CalculatorII\bin\Debug\CalculatorII.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\CalculatorII\CalculatorII\obj\x86\Debug\CalculatorII.Form1.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\CalculatorII\CalculatorII\obj\x86\Debug\CalculatorII.Resources.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\CalculatorII\CalculatorII\obj\x86\Debug\CalculatorII.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\CalculatorII\CalculatorII\obj\x86\Debug\CalculatorII.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\CalculatorII\CalculatorII\obj\x86\Debug\CalculatorII.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\CalculatorII\CalculatorII\obj\x86\Debug\CalculatorII.pdb

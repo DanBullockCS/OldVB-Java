@@ -1,0 +1,66 @@
+E:\Graphics Assignment 1\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.exe
+E:\Graphics Assignment 1\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.pdb
+E:\Graphics Assignment 1\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.xml
+E:\Graphics Assignment 1\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Form1.resources
+E:\Graphics Assignment 1\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Resources.resources
+E:\Graphics Assignment 1\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.vbproj.GenerateResource.Cache
+E:\Graphics Assignment 1\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.exe
+E:\Graphics Assignment 1\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.xml
+E:\Graphics Assignment 1\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.pdb
+E:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.exe
+E:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.xml
+E:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.pdb
+E:\Graphics Assignment 2\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.exe
+E:\Graphics Assignment 2\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.pdb
+E:\Graphics Assignment 2\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.xml
+E:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Form1.resources
+E:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Resources.resources
+E:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.vbproj.GenerateResource.Cache
+F:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.exe
+F:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.xml
+F:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.pdb
+F:\Graphics Assignment 2\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.exe
+F:\Graphics Assignment 2\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.pdb
+F:\Graphics Assignment 2\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.xml
+F:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Form1.resources
+F:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Resources.resources
+F:\Graphics Assignment 2\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.vbproj.GenerateResource.Cache
+E:\Graphics Assignment 3\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.exe
+E:\Graphics Assignment 3\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.xml
+E:\Graphics Assignment 3\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.pdb
+E:\Graphics Assignment 3\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.exe
+E:\Graphics Assignment 3\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.pdb
+E:\Graphics Assignment 3\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.xml
+E:\Graphics Assignment 3\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Form1.resources
+E:\Graphics Assignment 3\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Resources.resources
+E:\Graphics Assignment 3\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.vbproj.GenerateResource.Cache
+E:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.exe
+E:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.xml
+E:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.pdb
+E:\Graphics Assignment 4\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.exe
+E:\Graphics Assignment 4\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.pdb
+E:\Graphics Assignment 4\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.xml
+E:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Form1.resources
+E:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Resources.resources
+E:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.vbproj.GenerateResource.Cache
+E:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Form2.resources
+F:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.exe
+F:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.xml
+F:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.pdb
+F:\Graphics Assignment 4\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.exe
+F:\Graphics Assignment 4\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.pdb
+F:\Graphics Assignment 4\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.xml
+F:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Form1.resources
+F:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Form2.resources
+F:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Resources.resources
+F:\Graphics Assignment 4\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.vbproj.GenerateResource.Cache
+E:\Graphics Assignment 4 - Daniel Bullock\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.exe
+E:\Graphics Assignment 4 - Daniel Bullock\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.xml
+E:\Graphics Assignment 4 - Daniel Bullock\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.pdb
+E:\Graphics Assignment 4 - Daniel Bullock\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.exe
+E:\Graphics Assignment 4 - Daniel Bullock\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.pdb
+E:\Graphics Assignment 4 - Daniel Bullock\Graphics Assignment 1\bin\Debug\Graphics Assignment 1.xml
+E:\Graphics Assignment 4 - Daniel Bullock\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Form1.resources
+E:\Graphics Assignment 4 - Daniel Bullock\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Form2.resources
+E:\Graphics Assignment 4 - Daniel Bullock\Graphics Assignment 1\obj\x86\Debug\Graphics_Assignment_1.Resources.resources
+E:\Graphics Assignment 4 - Daniel Bullock\Graphics Assignment 1\obj\x86\Debug\Graphics Assignment 1.vbproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+H:\Daniel Bullock\Exercises\Band Infomation\Band Infomation\bin\Debug\Band Infomation.exe
+H:\Daniel Bullock\Exercises\Band Infomation\Band Infomation\bin\Debug\Band Infomation.pdb
+H:\Daniel Bullock\Exercises\Band Infomation\Band Infomation\bin\Debug\Band Infomation.xml
+H:\Daniel Bullock\Exercises\Band Infomation\Band Infomation\obj\x86\Debug\Band_Infomation.Form1.resources
+H:\Daniel Bullock\Exercises\Band Infomation\Band Infomation\obj\x86\Debug\Band_Infomation.Resources.resources
+H:\Daniel Bullock\Exercises\Band Infomation\Band Infomation\obj\x86\Debug\Band Infomation.vbproj.GenerateResource.Cache
+H:\Daniel Bullock\Exercises\Band Infomation\Band Infomation\obj\x86\Debug\Band Infomation.exe
+H:\Daniel Bullock\Exercises\Band Infomation\Band Infomation\obj\x86\Debug\Band Infomation.xml
+H:\Daniel Bullock\Exercises\Band Infomation\Band Infomation\obj\x86\Debug\Band Infomation.pdb
+H:\Chapter 2+3 - Daniel Bullock\Chapter 2 - Exercises\Band Infomation - Exercise 3\Band Infomation\obj\x86\Debug\Band Infomation.exe
+H:\Chapter 2+3 - Daniel Bullock\Chapter 2 - Exercises\Band Infomation - Exercise 3\Band Infomation\obj\x86\Debug\Band Infomation.xml
+H:\Chapter 2+3 - Daniel Bullock\Chapter 2 - Exercises\Band Infomation - Exercise 3\Band Infomation\obj\x86\Debug\Band Infomation.pdb

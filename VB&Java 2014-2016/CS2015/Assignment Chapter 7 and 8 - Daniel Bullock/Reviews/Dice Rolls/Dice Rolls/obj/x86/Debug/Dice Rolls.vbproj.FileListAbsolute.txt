@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.pdb
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Dice Rolls\Dice Rolls\bin\Debug\Dice Rolls.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice_Rolls.Form1.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice_Rolls.Resources.resources
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice Rolls.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice Rolls.exe
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice Rolls.xml
+E:\Computers\Assignment Chapter 7 and 8 - Daniel Bullock\Reviews\Dice Rolls\Dice Rolls\obj\x86\Debug\Dice Rolls.pdb

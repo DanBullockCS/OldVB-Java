@@ -1,0 +1,101 @@
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.Resources.resources
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.vbproj.GenerateResource.Cache
+E:\Not so secret files\Arcade\Arcade\Arcade\bin\Debug\Arcade.exe
+E:\Not so secret files\Arcade\Arcade\Arcade\bin\Debug\Arcade.pdb
+E:\Not so secret files\Arcade\Arcade\Arcade\bin\Debug\Arcade.xml
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.exe
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.xml
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.pdb
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.Main_Menu.resources
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.Math_Game.resources
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.exe
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.xml
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.pdb
+F:\Not so secret files\Arcade\Arcade\Arcade\bin\Debug\Arcade.exe
+F:\Not so secret files\Arcade\Arcade\Arcade\bin\Debug\Arcade.pdb
+F:\Not so secret files\Arcade\Arcade\Arcade\bin\Debug\Arcade.xml
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.Main_Menu.resources
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.Resources.resources
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.Math_Game.resources
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.RPS.resources
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.SlotMachine.resources
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.SoundBoard.resources
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.WhackAMole.resources
+F:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.vbproj.GenerateResource.Cache
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.RPS.resources
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.SlotMachine.resources
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.SoundBoard.resources
+E:\Not so secret files\Arcade\Arcade\Arcade\obj\x86\Debug\Arcade.WhackAMole.resources
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.exe
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.xml
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.pdb
+F:\Not so secret files\Arcade\Arcade\bin\Debug\Arcade.exe
+F:\Not so secret files\Arcade\Arcade\bin\Debug\Arcade.pdb
+F:\Not so secret files\Arcade\Arcade\bin\Debug\Arcade.xml
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.Main_Menu.resources
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.Resources.resources
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.Math_Game.resources
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.RPS.resources
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.SlotMachine.resources
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.SoundBoard.resources
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.WhackAMole.resources
+F:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.vbproj.GenerateResource.Cache
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.exe
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.xml
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.pdb
+C:\Users\Dan STD\Desktop\Arcade\Arcade\bin\Debug\Arcade.exe
+C:\Users\Dan STD\Desktop\Arcade\Arcade\bin\Debug\Arcade.pdb
+C:\Users\Dan STD\Desktop\Arcade\Arcade\bin\Debug\Arcade.xml
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.Main_Menu.resources
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.Resources.resources
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.Math_Game.resources
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.RPS.resources
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.SlotMachine.resources
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.SoundBoard.resources
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.WhackAMole.resources
+C:\Users\Dan STD\Desktop\Arcade\Arcade\obj\x86\Debug\Arcade.vbproj.GenerateResource.Cache
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.exe
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.xml
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.pdb
+E:\Not so secret files\Arcade\Arcade\bin\Debug\Arcade.exe
+E:\Not so secret files\Arcade\Arcade\bin\Debug\Arcade.pdb
+E:\Not so secret files\Arcade\Arcade\bin\Debug\Arcade.xml
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.Main_Menu.resources
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.Resources.resources
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.Math_Game.resources
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.RPS.resources
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.SlotMachine.resources
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.SoundBoard.resources
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.WhackAMole.resources
+E:\Not so secret files\Arcade\Arcade\obj\x86\Debug\Arcade.vbproj.GenerateResource.Cache
+H:\Arcade\Arcade\obj\x86\Debug\Arcade.exe
+H:\Arcade\Arcade\obj\x86\Debug\Arcade.xml
+H:\Arcade\Arcade\obj\x86\Debug\Arcade.pdb
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.exe
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.xml
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.pdb
+H:\Culminating - Daniel Bullock\Arcade\bin\Debug\Arcade.exe
+H:\Culminating - Daniel Bullock\Arcade\bin\Debug\Arcade.pdb
+H:\Culminating - Daniel Bullock\Arcade\bin\Debug\Arcade.xml
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.Main_Menu.resources
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.Resources.resources
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.Math_Game.resources
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.RPS.resources
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.SlotMachine.resources
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.SoundBoard.resources
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.WhackAMole.resources
+H:\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.vbproj.GenerateResource.Cache
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.exe
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.xml
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.pdb
+H:\2014\Culminating - Daniel Bullock\Arcade\bin\Debug\Arcade.exe
+H:\2014\Culminating - Daniel Bullock\Arcade\bin\Debug\Arcade.pdb
+H:\2014\Culminating - Daniel Bullock\Arcade\bin\Debug\Arcade.xml
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.Main_Menu.resources
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.Resources.resources
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.Math_Game.resources
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.RPS.resources
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.SlotMachine.resources
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.SoundBoard.resources
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.WhackAMole.resources
+H:\2014\Culminating - Daniel Bullock\Arcade\obj\x86\Debug\Arcade.vbproj.GenerateResource.Cache

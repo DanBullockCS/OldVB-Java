@@ -1,0 +1,9 @@
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\ScopeDemo\Scope Demo\Scope Demo\bin\Debug\Scope Demo.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\ScopeDemo\Scope Demo\Scope Demo\bin\Debug\Scope Demo.pdb
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\ScopeDemo\Scope Demo\Scope Demo\bin\Debug\Scope Demo.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\ScopeDemo\Scope Demo\Scope Demo\obj\x86\Debug\Scope_Demo.Form1.resources
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\ScopeDemo\Scope Demo\Scope Demo\obj\x86\Debug\Scope_Demo.Resources.resources
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\ScopeDemo\Scope Demo\Scope Demo\obj\x86\Debug\Scope Demo.vbproj.GenerateResource.Cache
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\ScopeDemo\Scope Demo\Scope Demo\obj\x86\Debug\Scope Demo.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\ScopeDemo\Scope Demo\Scope Demo\obj\x86\Debug\Scope Demo.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\ScopeDemo\Scope Demo\Scope Demo\obj\x86\Debug\Scope Demo.pdb

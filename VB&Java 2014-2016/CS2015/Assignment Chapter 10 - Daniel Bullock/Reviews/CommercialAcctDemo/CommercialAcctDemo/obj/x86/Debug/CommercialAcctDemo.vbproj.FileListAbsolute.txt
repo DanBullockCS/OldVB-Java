@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\CommercialAcctDemo\CommercialAcctDemo\obj\x86\Debug\CommercialAcctDemo.Form1.resources
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\CommercialAcctDemo\CommercialAcctDemo\obj\x86\Debug\CommercialAcctDemo.Resources.resources
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\CommercialAcctDemo\CommercialAcctDemo\obj\x86\Debug\CommercialAcctDemo.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\CommercialAcctDemo\CommercialAcctDemo\bin\Debug\CommercialAcctDemo.exe
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\CommercialAcctDemo\CommercialAcctDemo\bin\Debug\CommercialAcctDemo.pdb
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\CommercialAcctDemo\CommercialAcctDemo\bin\Debug\CommercialAcctDemo.xml
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\CommercialAcctDemo\CommercialAcctDemo\obj\x86\Debug\CommercialAcctDemo.exe
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\CommercialAcctDemo\CommercialAcctDemo\obj\x86\Debug\CommercialAcctDemo.xml
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\CommercialAcctDemo\CommercialAcctDemo\obj\x86\Debug\CommercialAcctDemo.pdb

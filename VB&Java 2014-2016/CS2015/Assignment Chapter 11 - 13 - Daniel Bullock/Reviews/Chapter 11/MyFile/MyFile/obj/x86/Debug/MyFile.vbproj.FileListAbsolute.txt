@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\MyFile\MyFile\obj\x86\Debug\MyFile.Form1.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\MyFile\MyFile\obj\x86\Debug\MyFile.Resources.resources
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\MyFile\MyFile\obj\x86\Debug\MyFile.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\MyFile\MyFile\bin\Debug\MyFile.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\MyFile\MyFile\bin\Debug\MyFile.pdb
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\MyFile\MyFile\bin\Debug\MyFile.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\MyFile\MyFile\obj\x86\Debug\MyFile.exe
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\MyFile\MyFile\obj\x86\Debug\MyFile.xml
+E:\Computers\Assignment Chapter 11 - 13 - Daniel Bullock\Reviews\MyFile\MyFile\obj\x86\Debug\MyFile.pdb

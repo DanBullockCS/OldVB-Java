@@ -1,0 +1,9 @@
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\SquareArea\SquareArea\bin\Debug\SquareArea.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\SquareArea\SquareArea\bin\Debug\SquareArea.pdb
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\SquareArea\SquareArea\bin\Debug\SquareArea.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\SquareArea\SquareArea\obj\x86\Debug\SquareArea.Form1.resources
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\SquareArea\SquareArea\obj\x86\Debug\SquareArea.Resources.resources
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\SquareArea\SquareArea\obj\x86\Debug\SquareArea.vbproj.GenerateResource.Cache
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\SquareArea\SquareArea\obj\x86\Debug\SquareArea.exe
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\SquareArea\SquareArea\obj\x86\Debug\SquareArea.xml
+H:\Assignment Chapter 2+3 Daniel Bullock\Chapter 3\SquareArea\SquareArea\obj\x86\Debug\SquareArea.pdb

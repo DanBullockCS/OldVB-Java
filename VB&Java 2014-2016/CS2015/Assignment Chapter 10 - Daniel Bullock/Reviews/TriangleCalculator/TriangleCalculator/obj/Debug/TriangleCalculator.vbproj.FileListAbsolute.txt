@@ -1,0 +1,40 @@
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.exe
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.xml
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.exe
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.xml
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.Form1.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.Resources.resources
+C:\Users\Jan\Documents\LVP Printings\VB2005-1\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.vbproj.GenerateResource.Cache
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.exe
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.xml
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.pdb
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.exe
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.pdb
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.xml
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.Form1.resources
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.Resources.resources
+C:\other\LVP Projects\VB2008 TRM\VB2008 TRM CD\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.vbproj.GenerateResource.Cache
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.exe
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.xml
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.exe
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.pdb
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.xml
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.Form1.resources
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.Resources.resources
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Jan\Documents\LVP Printings\VB2010 TRM\CASE STUDIES\TriangleCalculator\TriangleCalculator\obj\Debug\GenerateResource.write.1.tlog
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.exe
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.xml
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.pdb
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.exe
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.pdb
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\TriangleCalculator\TriangleCalculator\bin\Debug\TriangleCalculator.xml
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.Form1.resources
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.Resources.resources
+E:\Computers\Assignment Chapter 10 - Daniel Bullock\Reviews\TriangleCalculator\TriangleCalculator\obj\Debug\TriangleCalculator.vbproj.GenerateResource.Cache

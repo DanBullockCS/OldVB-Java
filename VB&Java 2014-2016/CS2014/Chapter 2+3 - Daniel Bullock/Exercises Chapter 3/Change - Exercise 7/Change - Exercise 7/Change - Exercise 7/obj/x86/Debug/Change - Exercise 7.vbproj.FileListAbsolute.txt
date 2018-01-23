@@ -1,0 +1,9 @@
+F:\Change - Exercise 7\Change - Exercise 7\obj\x86\Debug\Change___Exercise_7.Form1.resources
+F:\Change - Exercise 7\Change - Exercise 7\obj\x86\Debug\Change___Exercise_7.Resources.resources
+F:\Change - Exercise 7\Change - Exercise 7\obj\x86\Debug\Change - Exercise 7.vbproj.GenerateResource.Cache
+F:\Change - Exercise 7\Change - Exercise 7\bin\Debug\Change - Exercise 7.exe
+F:\Change - Exercise 7\Change - Exercise 7\bin\Debug\Change - Exercise 7.pdb
+F:\Change - Exercise 7\Change - Exercise 7\bin\Debug\Change - Exercise 7.xml
+F:\Change - Exercise 7\Change - Exercise 7\obj\x86\Debug\Change - Exercise 7.exe
+F:\Change - Exercise 7\Change - Exercise 7\obj\x86\Debug\Change - Exercise 7.xml
+F:\Change - Exercise 7\Change - Exercise 7\obj\x86\Debug\Change - Exercise 7.pdb

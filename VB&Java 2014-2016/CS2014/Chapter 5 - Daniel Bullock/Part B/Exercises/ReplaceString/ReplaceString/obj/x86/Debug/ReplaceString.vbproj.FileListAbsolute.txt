@@ -1,0 +1,42 @@
+C:\Users\desousak\AppData\Local\Temporary Projects\ReplaceString\bin\Debug\ReplaceString.exe
+C:\Users\desousak\AppData\Local\Temporary Projects\ReplaceString\bin\Debug\ReplaceString.pdb
+C:\Users\desousak\AppData\Local\Temporary Projects\ReplaceString\bin\Debug\ReplaceString.xml
+C:\Users\desousak\AppData\Local\Temporary Projects\ReplaceString\obj\x86\Debug\ReplaceString.Form1.resources
+C:\Users\desousak\AppData\Local\Temporary Projects\ReplaceString\obj\x86\Debug\ReplaceString.Resources.resources
+C:\Users\desousak\AppData\Local\Temporary Projects\ReplaceString\obj\x86\Debug\ReplaceString.vbproj.GenerateResource.Cache
+C:\Users\desousak\AppData\Local\Temporary Projects\ReplaceString\obj\x86\Debug\ReplaceString.exe
+C:\Users\desousak\AppData\Local\Temporary Projects\ReplaceString\obj\x86\Debug\ReplaceString.xml
+C:\Users\desousak\AppData\Local\Temporary Projects\ReplaceString\obj\x86\Debug\ReplaceString.pdb
+H:\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.exe
+H:\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.xml
+H:\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.pdb
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.exe
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.xml
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.pdb
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\bin\Debug\ReplaceString.exe
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\bin\Debug\ReplaceString.pdb
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\bin\Debug\ReplaceString.xml
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.Form1.resources
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.Resources.resources
+E:\Period 1\Kevin Desousa Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.vbproj.GenerateResource.Cache
+E:\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.exe
+E:\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.xml
+E:\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.pdb
+E:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.exe
+E:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.xml
+E:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.pdb
+E:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\bin\Debug\ReplaceString.exe
+E:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\bin\Debug\ReplaceString.pdb
+E:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\bin\Debug\ReplaceString.xml
+E:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.Form1.resources
+E:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.Resources.resources
+E:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.vbproj.GenerateResource.Cache
+F:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.exe
+F:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.xml
+F:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.pdb
+F:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\bin\Debug\ReplaceString.exe
+F:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\bin\Debug\ReplaceString.pdb
+F:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\bin\Debug\ReplaceString.xml
+F:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.Form1.resources
+F:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.Resources.resources
+F:\Chapter 5\Part B\Exercises\ReplaceString\ReplaceString\obj\x86\Debug\ReplaceString.vbproj.GenerateResource.Cache

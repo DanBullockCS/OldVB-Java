@@ -1,0 +1,27 @@
+E:\Chapter 9\Exercises\Speak\Speak\bin\Debug\Speak.exe
+E:\Chapter 9\Exercises\Speak\Speak\bin\Debug\Speak.pdb
+E:\Chapter 9\Exercises\Speak\Speak\bin\Debug\Speak.xml
+E:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.Form1.resources
+E:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.Resources.resources
+E:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.vbproj.GenerateResource.Cache
+E:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.exe
+E:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.xml
+E:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.pdb
+F:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.exe
+F:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.xml
+F:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.pdb
+F:\Chapter 9\Exercises\Speak\Speak\bin\Debug\Speak.exe
+F:\Chapter 9\Exercises\Speak\Speak\bin\Debug\Speak.pdb
+F:\Chapter 9\Exercises\Speak\Speak\bin\Debug\Speak.xml
+F:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.Form1.resources
+F:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.Resources.resources
+F:\Chapter 9\Exercises\Speak\Speak\obj\x86\Debug\Speak.vbproj.GenerateResource.Cache
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\Speak\Speak\obj\x86\Debug\Speak.exe
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\Speak\Speak\obj\x86\Debug\Speak.xml
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\Speak\Speak\obj\x86\Debug\Speak.pdb
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\Speak\Speak\bin\Debug\Speak.exe
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\Speak\Speak\bin\Debug\Speak.pdb
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\Speak\Speak\bin\Debug\Speak.xml
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\Speak\Speak\obj\x86\Debug\Speak.Form1.resources
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\Speak\Speak\obj\x86\Debug\Speak.Resources.resources
+H:\2014\Chapter 9 - Daniel Bullock\Exercises\Speak\Speak\obj\x86\Debug\Speak.vbproj.GenerateResource.Cache

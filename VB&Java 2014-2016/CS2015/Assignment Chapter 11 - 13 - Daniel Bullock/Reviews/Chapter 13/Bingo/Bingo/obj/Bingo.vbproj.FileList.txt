@@ -1,0 +1,13 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Bingo.AboutDialogBox.resources
+obj\Debug\Bingo.BingoCard.resources
+obj\Debug\Bingo.Form1.resources
+obj\Debug\Bingo.HelpDialogBox.resources
+obj\Debug\Bingo.Resources.resources
+obj\Debug\Bingo.vbproj.GenerateResource.Cache
+bin\Debug\Bingo.exe
+bin\Debug\Bingo.pdb
+bin\Debug\Bingo.xml
+obj\Debug\Bingo.exe
+obj\Debug\Bingo.xml
+obj\Debug\Bingo.pdb

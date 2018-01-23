@@ -1,0 +1,9 @@
+E:\Chapter 9\Exercises\MoveLine\MoveLine\bin\Debug\MoveLine.exe
+E:\Chapter 9\Exercises\MoveLine\MoveLine\bin\Debug\MoveLine.pdb
+E:\Chapter 9\Exercises\MoveLine\MoveLine\bin\Debug\MoveLine.xml
+E:\Chapter 9\Exercises\MoveLine\MoveLine\obj\x86\Debug\MoveLine.Form1.resources
+E:\Chapter 9\Exercises\MoveLine\MoveLine\obj\x86\Debug\MoveLine.Resources.resources
+E:\Chapter 9\Exercises\MoveLine\MoveLine\obj\x86\Debug\MoveLine.vbproj.GenerateResource.Cache
+E:\Chapter 9\Exercises\MoveLine\MoveLine\obj\x86\Debug\MoveLine.exe
+E:\Chapter 9\Exercises\MoveLine\MoveLine\obj\x86\Debug\MoveLine.xml
+E:\Chapter 9\Exercises\MoveLine\MoveLine\obj\x86\Debug\MoveLine.pdb

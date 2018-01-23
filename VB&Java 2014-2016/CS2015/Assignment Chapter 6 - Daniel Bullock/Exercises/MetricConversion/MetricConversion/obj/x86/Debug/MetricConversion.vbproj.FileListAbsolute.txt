@@ -1,0 +1,18 @@
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\bin\Debug\MetricConversion.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\bin\Debug\MetricConversion.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\bin\Debug\MetricConversion.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.Form1.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.Resources.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.pdb
+H:\Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.exe
+H:\Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.xml
+H:\Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.pdb
+H:\Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\bin\Debug\MetricConversion.exe
+H:\Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\bin\Debug\MetricConversion.pdb
+H:\Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\bin\Debug\MetricConversion.xml
+H:\Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.Form1.resources
+H:\Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.Resources.resources
+H:\Chapter 6 - Daniel Bullock\Exercises\MetricConversion\MetricConversion\obj\x86\Debug\MetricConversion.vbproj.GenerateResource.Cache

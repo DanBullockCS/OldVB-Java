@@ -1,0 +1,9 @@
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\PetStore\PetStore\bin\Debug\PetStore.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\PetStore\PetStore\bin\Debug\PetStore.pdb
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\PetStore\PetStore\bin\Debug\PetStore.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\PetStore\PetStore\obj\x86\Debug\PetStore.Form1.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\PetStore\PetStore\obj\x86\Debug\PetStore.Resources.resources
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\PetStore\PetStore\obj\x86\Debug\PetStore.vbproj.GenerateResource.Cache
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\PetStore\PetStore\obj\x86\Debug\PetStore.exe
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\PetStore\PetStore\obj\x86\Debug\PetStore.xml
+E:\Computers\Assignment Chapter 6 - Daniel Bullock\Reviews\PetStore\PetStore\obj\x86\Debug\PetStore.pdb

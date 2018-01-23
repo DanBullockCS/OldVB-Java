@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Arcade", "Arcade\Arcade.vbproj", "{5BF1DA5B-3B6A-46BE-9D8C-597B858F24AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF1DA5B-3B6A-46BE-9D8C-597B858F24AB}.Debug|x86.ActiveCfg = Debug|x86
+		{5BF1DA5B-3B6A-46BE-9D8C-597B858F24AB}.Debug|x86.Build.0 = Debug|x86
+		{5BF1DA5B-3B6A-46BE-9D8C-597B858F24AB}.Release|x86.ActiveCfg = Release|x86
+		{5BF1DA5B-3B6A-46BE-9D8C-597B858F24AB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
